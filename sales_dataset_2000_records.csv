@@ -1,0 +1,2001 @@
+ID,OrderID,OrderDate,Region,Customer,Category,Product,Quantity,UnitPrice,Sales
+1,ORD00001,2024-04-09,East,Customer_497,Electronics,Mouse,8,463,3704
+2,ORD00002,2023-04-20,West,Customer_32,Furniture,Table,4,52,208
+3,ORD00003,2023-06-07,South,Customer_45,Furniture,Desk,4,431,1724
+4,ORD00004,2024-09-04,South,Customer_48,Electronics,Laptop,7,303,2121
+5,ORD00005,2024-07-09,West,Customer_32,Office Supplies,Pen,3,495,1485
+6,ORD00006,2024-02-23,North,Customer_327,Electronics,Printer,7,956,6692
+7,ORD00007,2024-06-22,East,Customer_202,Office Supplies,Pen,8,722,5776
+8,ORD00008,2023-02-04,West,Customer_240,Furniture,Table,2,583,1166
+9,ORD00009,2024-08-01,East,Customer_53,Furniture,Table,10,821,8210
+10,ORD00010,2024-08-31,South,Customer_488,Office Supplies,Stapler,1,396,396
+11,ORD00011,2023-02-24,West,Customer_308,Furniture,Desk,2,480,960
+12,ORD00012,2023-07-26,East,Customer_487,Electronics,Monitor,10,41,410
+13,ORD00013,2024-04-08,East,Customer_367,Office Supplies,Notebook,5,194,970
+14,ORD00014,2023-12-21,West,Customer_498,Furniture,Desk,2,655,1310
+15,ORD00015,2024-06-14,North,Customer_318,Electronics,Keyboard,10,192,1920
+16,ORD00016,2023-12-23,North,Customer_148,Office Supplies,Paper Pack,4,212,848
+17,ORD00017,2024-09-02,East,Customer_309,Electronics,Keyboard,6,204,1224
+18,ORD00018,2024-05-11,West,Customer_450,Electronics,Printer,3,133,399
+19,ORD00019,2023-08-21,North,Customer_349,Furniture,Cupboard,7,282,1974
+20,ORD00020,2023-08-16,South,Customer_70,Furniture,Table,6,694,4164
+21,ORD00021,2024-12-31,North,Customer_291,Office Supplies,Stapler,10,292,2920
+22,ORD00022,2023-09-12,East,Customer_73,Furniture,Cupboard,4,290,1160
+23,ORD00023,2023-03-21,West,Customer_83,Electronics,Monitor,6,881,5286
+24,ORD00024,2023-03-09,North,Customer_305,Furniture,Desk,3,968,2904
+25,ORD00025,2024-03-22,East,Customer_367,Furniture,Chair,1,870,870
+26,ORD00026,2024-12-19,North,Customer_403,Furniture,Table,2,149,298
+27,ORD00027,2024-11-21,North,Customer_230,Electronics,Monitor,10,325,3250
+28,ORD00028,2024-04-26,South,Customer_445,Electronics,Laptop,6,27,162
+29,ORD00029,2023-10-07,South,Customer_54,Office Supplies,Notebook,10,48,480
+30,ORD00030,2024-12-13,East,Customer_338,Office Supplies,Stapler,4,273,1092
+31,ORD00031,2024-09-11,North,Customer_387,Office Supplies,Stapler,9,446,4014
+32,ORD00032,2024-08-20,East,Customer_92,Electronics,Keyboard,10,948,9480
+33,ORD00033,2023-04-11,West,Customer_239,Furniture,Chair,3,384,1152
+34,ORD00034,2024-08-09,East,Customer_70,Furniture,Table,8,778,6224
+35,ORD00035,2024-12-08,North,Customer_54,Electronics,Keyboard,1,463,463
+36,ORD00036,2024-07-30,South,Customer_433,Electronics,Printer,5,986,4930
+37,ORD00037,2023-07-20,North,Customer_422,Office Supplies,Notebook,8,543,4344
+38,ORD00038,2023-10-05,South,Customer_132,Office Supplies,Notebook,8,564,4512
+39,ORD00039,2023-03-25,North,Customer_303,Electronics,Mouse,9,190,1710
+40,ORD00040,2023-12-29,South,Customer_170,Electronics,Printer,3,847,2541
+41,ORD00041,2023-09-23,East,Customer_31,Electronics,Laptop,9,784,7056
+42,ORD00042,2024-03-03,East,Customer_229,Furniture,Desk,5,774,3870
+43,ORD00043,2024-10-16,North,Customer_381,Furniture,Table,6,795,4770
+44,ORD00044,2023-11-11,West,Customer_45,Office Supplies,Notebook,1,480,480
+45,ORD00045,2024-03-08,South,Customer_65,Electronics,Printer,7,642,4494
+46,ORD00046,2024-07-01,North,Customer_356,Office Supplies,Stapler,7,174,1218
+47,ORD00047,2023-08-10,East,Customer_250,Electronics,Printer,2,206,412
+48,ORD00048,2023-03-18,East,Customer_57,Electronics,Laptop,2,467,934
+49,ORD00049,2024-09-15,West,Customer_490,Electronics,Keyboard,7,745,5215
+50,ORD00050,2024-03-11,West,Customer_244,Furniture,Table,9,872,7848
+51,ORD00051,2023-01-13,South,Customer_409,Electronics,Keyboard,8,608,4864
+52,ORD00052,2024-08-13,North,Customer_68,Furniture,Chair,5,535,2675
+53,ORD00053,2024-11-21,East,Customer_457,Office Supplies,Stapler,10,408,4080
+54,ORD00054,2024-02-04,North,Customer_45,Electronics,Monitor,4,688,2752
+55,ORD00055,2024-03-15,North,Customer_282,Office Supplies,Notebook,2,434,868
+56,ORD00056,2024-07-17,East,Customer_319,Furniture,Cupboard,1,431,431
+57,ORD00057,2024-10-07,East,Customer_111,Furniture,Table,5,12,60
+58,ORD00058,2023-05-26,South,Customer_357,Electronics,Printer,2,846,1692
+59,ORD00059,2024-03-11,North,Customer_346,Office Supplies,Pen,2,985,1970
+60,ORD00060,2023-06-16,South,Customer_253,Electronics,Printer,4,854,3416
+61,ORD00061,2023-03-19,East,Customer_238,Electronics,Monitor,5,899,4495
+62,ORD00062,2023-03-26,South,Customer_92,Furniture,Chair,5,42,210
+63,ORD00063,2023-08-13,East,Customer_293,Furniture,Table,5,875,4375
+64,ORD00064,2023-02-17,West,Customer_62,Office Supplies,Paper Pack,4,37,148
+65,ORD00065,2023-12-06,West,Customer_460,Office Supplies,Paper Pack,7,398,2786
+66,ORD00066,2023-11-05,South,Customer_181,Electronics,Printer,1,858,858
+67,ORD00067,2023-09-25,West,Customer_451,Electronics,Monitor,9,538,4842
+68,ORD00068,2023-10-02,East,Customer_216,Office Supplies,Stapler,7,227,1589
+69,ORD00069,2023-02-28,East,Customer_360,Furniture,Table,4,833,3332
+70,ORD00070,2024-06-10,South,Customer_172,Electronics,Printer,9,905,8145
+71,ORD00071,2023-05-02,West,Customer_105,Furniture,Chair,1,337,337
+72,ORD00072,2024-04-22,East,Customer_355,Office Supplies,Stapler,1,504,504
+73,ORD00073,2024-09-05,East,Customer_309,Furniture,Table,1,158,158
+74,ORD00074,2024-06-07,East,Customer_465,Office Supplies,Stapler,7,515,3605
+75,ORD00075,2023-08-12,South,Customer_252,Office Supplies,Paper Pack,6,727,4362
+76,ORD00076,2024-11-03,South,Customer_89,Electronics,Printer,9,224,2016
+77,ORD00077,2024-06-13,North,Customer_89,Office Supplies,Paper Pack,7,137,959
+78,ORD00078,2023-12-16,South,Customer_261,Furniture,Chair,5,370,1850
+79,ORD00079,2024-05-21,North,Customer_441,Office Supplies,Stapler,6,54,324
+80,ORD00080,2023-12-21,West,Customer_334,Electronics,Mouse,6,90,540
+81,ORD00081,2024-06-01,West,Customer_238,Furniture,Cupboard,2,369,738
+82,ORD00082,2024-11-27,East,Customer_405,Electronics,Laptop,7,764,5348
+83,ORD00083,2024-05-05,South,Customer_280,Furniture,Desk,10,946,9460
+84,ORD00084,2024-09-14,South,Customer_172,Furniture,Table,10,40,400
+85,ORD00085,2023-04-27,South,Customer_445,Furniture,Cupboard,1,96,96
+86,ORD00086,2024-05-11,East,Customer_208,Office Supplies,Paper Pack,5,362,1810
+87,ORD00087,2024-04-20,North,Customer_324,Furniture,Table,1,524,524
+88,ORD00088,2023-04-07,South,Customer_183,Electronics,Mouse,6,276,1656
+89,ORD00089,2024-07-10,East,Customer_441,Office Supplies,Pen,5,992,4960
+90,ORD00090,2024-02-06,West,Customer_406,Electronics,Mouse,6,482,2892
+91,ORD00091,2024-04-16,West,Customer_298,Office Supplies,Pen,9,312,2808
+92,ORD00092,2023-03-01,North,Customer_330,Furniture,Table,3,864,2592
+93,ORD00093,2024-01-30,East,Customer_120,Electronics,Printer,6,102,612
+94,ORD00094,2024-05-06,South,Customer_68,Electronics,Printer,8,309,2472
+95,ORD00095,2024-01-26,West,Customer_483,Office Supplies,Paper Pack,3,61,183
+96,ORD00096,2024-03-18,West,Customer_407,Electronics,Mouse,1,456,456
+97,ORD00097,2024-04-18,East,Customer_197,Office Supplies,Paper Pack,8,693,5544
+98,ORD00098,2024-02-08,West,Customer_383,Office Supplies,Paper Pack,2,829,1658
+99,ORD00099,2024-07-09,North,Customer_349,Electronics,Monitor,2,144,288
+100,ORD00100,2024-02-23,East,Customer_128,Furniture,Table,6,411,2466
+101,ORD00101,2024-03-01,North,Customer_5,Furniture,Chair,3,860,2580
+102,ORD00102,2024-05-08,East,Customer_110,Electronics,Mouse,1,290,290
+103,ORD00103,2023-01-22,South,Customer_198,Furniture,Table,3,471,1413
+104,ORD00104,2024-02-23,West,Customer_145,Furniture,Cupboard,6,10,60
+105,ORD00105,2023-09-22,South,Customer_230,Furniture,Chair,10,287,2870
+106,ORD00106,2024-09-04,South,Customer_368,Office Supplies,Paper Pack,9,147,1323
+107,ORD00107,2023-10-03,East,Customer_257,Electronics,Laptop,8,313,2504
+108,ORD00108,2023-11-14,North,Customer_329,Office Supplies,Notebook,3,793,2379
+109,ORD00109,2024-02-17,East,Customer_206,Furniture,Cupboard,5,573,2865
+110,ORD00110,2023-11-17,South,Customer_316,Furniture,Chair,5,37,185
+111,ORD00111,2023-08-11,West,Customer_263,Electronics,Mouse,3,846,2538
+112,ORD00112,2024-04-08,East,Customer_261,Electronics,Laptop,10,566,5660
+113,ORD00113,2024-07-22,East,Customer_118,Office Supplies,Stapler,10,402,4020
+114,ORD00114,2024-08-23,West,Customer_63,Office Supplies,Pen,4,178,712
+115,ORD00115,2024-07-20,East,Customer_126,Electronics,Keyboard,8,71,568
+116,ORD00116,2023-02-16,North,Customer_101,Office Supplies,Notebook,10,400,4000
+117,ORD00117,2023-05-14,North,Customer_318,Electronics,Printer,4,105,420
+118,ORD00118,2024-08-17,East,Customer_496,Office Supplies,Paper Pack,1,990,990
+119,ORD00119,2024-12-13,East,Customer_307,Office Supplies,Pen,3,545,1635
+120,ORD00120,2024-03-10,East,Customer_84,Furniture,Chair,1,415,415
+121,ORD00121,2023-07-29,South,Customer_421,Furniture,Cupboard,3,206,618
+122,ORD00122,2024-12-31,North,Customer_315,Office Supplies,Pen,4,358,1432
+123,ORD00123,2023-09-19,North,Customer_161,Furniture,Table,6,216,1296
+124,ORD00124,2023-01-07,West,Customer_360,Office Supplies,Stapler,3,925,2775
+125,ORD00125,2024-01-23,North,Customer_259,Office Supplies,Pen,1,345,345
+126,ORD00126,2023-10-15,East,Customer_162,Furniture,Desk,5,757,3785
+127,ORD00127,2024-09-19,East,Customer_38,Furniture,Desk,7,697,4879
+128,ORD00128,2023-11-24,West,Customer_339,Office Supplies,Paper Pack,7,796,5572
+129,ORD00129,2023-04-21,North,Customer_78,Electronics,Mouse,10,446,4460
+130,ORD00130,2023-08-02,South,Customer_488,Office Supplies,Paper Pack,10,56,560
+131,ORD00131,2023-12-26,West,Customer_118,Furniture,Desk,10,737,7370
+132,ORD00132,2024-09-24,North,Customer_81,Furniture,Chair,2,738,1476
+133,ORD00133,2023-03-22,North,Customer_239,Office Supplies,Stapler,9,964,8676
+134,ORD00134,2023-07-13,West,Customer_124,Office Supplies,Pen,5,621,3105
+135,ORD00135,2024-09-14,North,Customer_1,Office Supplies,Notebook,5,491,2455
+136,ORD00136,2024-04-21,South,Customer_207,Electronics,Keyboard,1,323,323
+137,ORD00137,2023-06-23,South,Customer_260,Furniture,Desk,6,393,2358
+138,ORD00138,2023-07-11,South,Customer_197,Office Supplies,Notebook,8,592,4736
+139,ORD00139,2024-09-09,North,Customer_233,Electronics,Printer,9,848,7632
+140,ORD00140,2023-07-08,North,Customer_331,Office Supplies,Notebook,10,914,9140
+141,ORD00141,2023-09-25,North,Customer_155,Electronics,Keyboard,2,652,1304
+142,ORD00142,2024-04-30,East,Customer_212,Electronics,Mouse,10,293,2930
+143,ORD00143,2023-04-06,South,Customer_216,Office Supplies,Notebook,9,646,5814
+144,ORD00144,2023-10-07,South,Customer_135,Electronics,Keyboard,1,193,193
+145,ORD00145,2024-09-03,West,Customer_496,Furniture,Table,5,32,160
+146,ORD00146,2023-07-25,South,Customer_33,Furniture,Table,9,846,7614
+147,ORD00147,2024-09-07,North,Customer_267,Electronics,Laptop,5,910,4550
+148,ORD00148,2024-02-02,South,Customer_426,Electronics,Mouse,7,159,1113
+149,ORD00149,2023-07-29,East,Customer_111,Electronics,Laptop,6,972,5832
+150,ORD00150,2024-11-06,South,Customer_261,Furniture,Chair,3,413,1239
+151,ORD00151,2023-10-09,South,Customer_28,Office Supplies,Pen,8,283,2264
+152,ORD00152,2023-09-19,North,Customer_223,Furniture,Desk,5,900,4500
+153,ORD00153,2024-06-08,East,Customer_93,Electronics,Printer,10,725,7250
+154,ORD00154,2023-02-15,South,Customer_306,Furniture,Desk,1,909,909
+155,ORD00155,2023-03-02,West,Customer_236,Furniture,Table,9,828,7452
+156,ORD00156,2023-06-09,East,Customer_63,Furniture,Chair,3,500,1500
+157,ORD00157,2024-06-18,North,Customer_248,Electronics,Printer,5,979,4895
+158,ORD00158,2023-04-14,East,Customer_194,Office Supplies,Paper Pack,7,23,161
+159,ORD00159,2023-04-15,East,Customer_326,Office Supplies,Pen,4,378,1512
+160,ORD00160,2023-06-20,North,Customer_140,Furniture,Desk,6,383,2298
+161,ORD00161,2023-08-19,East,Customer_103,Electronics,Keyboard,8,240,1920
+162,ORD00162,2023-07-06,West,Customer_187,Office Supplies,Stapler,4,295,1180
+163,ORD00163,2024-03-13,South,Customer_197,Furniture,Table,6,977,5862
+164,ORD00164,2023-05-07,South,Customer_375,Furniture,Chair,1,136,136
+165,ORD00165,2024-07-05,North,Customer_137,Electronics,Monitor,3,901,2703
+166,ORD00166,2023-06-29,North,Customer_475,Office Supplies,Stapler,9,433,3897
+167,ORD00167,2023-02-16,South,Customer_220,Furniture,Cupboard,5,596,2980
+168,ORD00168,2023-04-30,West,Customer_214,Furniture,Chair,10,583,5830
+169,ORD00169,2023-09-12,West,Customer_72,Electronics,Laptop,9,770,6930
+170,ORD00170,2023-04-20,West,Customer_79,Office Supplies,Pen,4,844,3376
+171,ORD00171,2023-01-08,East,Customer_11,Office Supplies,Stapler,4,90,360
+172,ORD00172,2023-03-27,West,Customer_340,Office Supplies,Notebook,3,507,1521
+173,ORD00173,2024-05-25,South,Customer_327,Electronics,Mouse,1,145,145
+174,ORD00174,2023-03-27,East,Customer_455,Electronics,Monitor,10,432,4320
+175,ORD00175,2024-06-25,North,Customer_316,Office Supplies,Paper Pack,1,335,335
+176,ORD00176,2023-12-22,East,Customer_89,Electronics,Laptop,1,350,350
+177,ORD00177,2024-07-06,West,Customer_52,Office Supplies,Notebook,5,194,970
+178,ORD00178,2024-02-11,South,Customer_427,Office Supplies,Notebook,6,661,3966
+179,ORD00179,2024-10-23,South,Customer_373,Office Supplies,Paper Pack,2,401,802
+180,ORD00180,2023-09-24,East,Customer_163,Office Supplies,Notebook,1,520,520
+181,ORD00181,2023-05-14,West,Customer_273,Office Supplies,Pen,2,686,1372
+182,ORD00182,2023-08-11,North,Customer_65,Office Supplies,Pen,2,598,1196
+183,ORD00183,2024-08-30,West,Customer_194,Electronics,Laptop,1,989,989
+184,ORD00184,2023-05-05,East,Customer_312,Electronics,Laptop,9,40,360
+185,ORD00185,2024-12-25,South,Customer_253,Furniture,Cupboard,3,694,2082
+186,ORD00186,2024-01-23,South,Customer_303,Office Supplies,Pen,8,672,5376
+187,ORD00187,2024-06-27,West,Customer_329,Office Supplies,Stapler,6,84,504
+188,ORD00188,2024-04-01,North,Customer_179,Office Supplies,Stapler,8,199,1592
+189,ORD00189,2024-06-23,East,Customer_193,Furniture,Chair,6,723,4338
+190,ORD00190,2023-02-26,West,Customer_102,Furniture,Desk,1,666,666
+191,ORD00191,2023-04-29,West,Customer_23,Office Supplies,Pen,7,314,2198
+192,ORD00192,2023-07-27,North,Customer_158,Office Supplies,Stapler,1,912,912
+193,ORD00193,2023-12-13,South,Customer_412,Furniture,Cupboard,6,677,4062
+194,ORD00194,2024-11-24,North,Customer_421,Furniture,Cupboard,3,183,549
+195,ORD00195,2024-05-24,South,Customer_411,Electronics,Monitor,3,776,2328
+196,ORD00196,2023-03-23,West,Customer_268,Furniture,Table,3,200,600
+197,ORD00197,2024-12-02,West,Customer_457,Electronics,Printer,7,835,5845
+198,ORD00198,2024-05-08,North,Customer_221,Office Supplies,Stapler,3,721,2163
+199,ORD00199,2023-06-15,South,Customer_153,Electronics,Printer,7,758,5306
+200,ORD00200,2024-01-09,South,Customer_163,Office Supplies,Stapler,1,244,244
+201,ORD00201,2023-08-04,East,Customer_30,Office Supplies,Stapler,3,58,174
+202,ORD00202,2023-12-13,South,Customer_150,Electronics,Laptop,3,47,141
+203,ORD00203,2023-01-18,West,Customer_317,Furniture,Chair,9,910,8190
+204,ORD00204,2023-01-22,West,Customer_208,Electronics,Monitor,3,674,2022
+205,ORD00205,2023-10-25,North,Customer_429,Furniture,Chair,6,344,2064
+206,ORD00206,2024-04-08,South,Customer_416,Office Supplies,Stapler,3,30,90
+207,ORD00207,2023-06-08,North,Customer_83,Furniture,Chair,5,66,330
+208,ORD00208,2023-04-22,West,Customer_448,Furniture,Table,4,694,2776
+209,ORD00209,2024-09-09,West,Customer_420,Furniture,Cupboard,10,660,6600
+210,ORD00210,2023-02-12,West,Customer_296,Electronics,Monitor,8,973,7784
+211,ORD00211,2023-02-16,North,Customer_188,Furniture,Table,7,270,1890
+212,ORD00212,2024-07-07,South,Customer_294,Furniture,Table,1,699,699
+213,ORD00213,2024-08-13,West,Customer_118,Office Supplies,Notebook,9,237,2133
+214,ORD00214,2023-03-30,West,Customer_85,Office Supplies,Notebook,9,210,1890
+215,ORD00215,2023-05-30,East,Customer_24,Electronics,Keyboard,10,931,9310
+216,ORD00216,2024-06-01,West,Customer_276,Furniture,Desk,1,97,97
+217,ORD00217,2024-02-12,South,Customer_318,Electronics,Laptop,4,510,2040
+218,ORD00218,2024-06-24,West,Customer_361,Electronics,Printer,1,629,629
+219,ORD00219,2024-06-27,South,Customer_311,Furniture,Chair,1,944,944
+220,ORD00220,2023-11-06,West,Customer_432,Electronics,Printer,3,256,768
+221,ORD00221,2024-10-15,West,Customer_13,Furniture,Cupboard,5,546,2730
+222,ORD00222,2024-07-28,West,Customer_296,Furniture,Table,4,731,2924
+223,ORD00223,2024-01-04,East,Customer_67,Office Supplies,Pen,7,514,3598
+224,ORD00224,2023-07-26,North,Customer_475,Office Supplies,Paper Pack,2,596,1192
+225,ORD00225,2023-11-21,South,Customer_363,Furniture,Table,9,214,1926
+226,ORD00226,2023-06-18,South,Customer_317,Furniture,Desk,1,526,526
+227,ORD00227,2024-05-14,East,Customer_387,Office Supplies,Stapler,3,846,2538
+228,ORD00228,2023-03-03,West,Customer_420,Electronics,Laptop,9,479,4311
+229,ORD00229,2023-03-31,North,Customer_389,Office Supplies,Paper Pack,5,430,2150
+230,ORD00230,2023-07-26,South,Customer_407,Furniture,Chair,7,50,350
+231,ORD00231,2023-01-14,South,Customer_23,Furniture,Desk,8,558,4464
+232,ORD00232,2024-10-24,East,Customer_469,Electronics,Laptop,5,918,4590
+233,ORD00233,2024-09-06,West,Customer_210,Electronics,Printer,1,765,765
+234,ORD00234,2023-01-05,East,Customer_444,Office Supplies,Notebook,1,799,799
+235,ORD00235,2024-12-24,East,Customer_281,Office Supplies,Paper Pack,8,772,6176
+236,ORD00236,2023-04-16,North,Customer_124,Office Supplies,Notebook,8,514,4112
+237,ORD00237,2023-03-08,West,Customer_348,Electronics,Printer,9,793,7137
+238,ORD00238,2023-09-08,East,Customer_340,Office Supplies,Paper Pack,4,999,3996
+239,ORD00239,2024-02-19,North,Customer_346,Electronics,Mouse,6,437,2622
+240,ORD00240,2023-07-25,East,Customer_127,Electronics,Printer,6,142,852
+241,ORD00241,2024-12-11,East,Customer_92,Office Supplies,Notebook,6,319,1914
+242,ORD00242,2023-12-18,West,Customer_433,Electronics,Monitor,9,295,2655
+243,ORD00243,2024-08-26,South,Customer_449,Furniture,Chair,3,971,2913
+244,ORD00244,2024-11-22,North,Customer_414,Electronics,Monitor,1,878,878
+245,ORD00245,2023-10-21,South,Customer_21,Electronics,Monitor,7,835,5845
+246,ORD00246,2023-03-29,East,Customer_232,Furniture,Cupboard,8,120,960
+247,ORD00247,2023-09-10,West,Customer_233,Office Supplies,Pen,6,40,240
+248,ORD00248,2023-09-15,South,Customer_449,Electronics,Mouse,10,727,7270
+249,ORD00249,2024-08-16,East,Customer_5,Electronics,Keyboard,9,267,2403
+250,ORD00250,2024-04-29,North,Customer_212,Electronics,Keyboard,7,808,5656
+251,ORD00251,2024-05-31,South,Customer_134,Furniture,Chair,9,773,6957
+252,ORD00252,2023-02-01,South,Customer_415,Office Supplies,Notebook,1,993,993
+253,ORD00253,2023-03-04,East,Customer_452,Electronics,Printer,8,790,6320
+254,ORD00254,2023-01-19,West,Customer_120,Furniture,Table,6,321,1926
+255,ORD00255,2024-02-11,East,Customer_472,Office Supplies,Paper Pack,8,819,6552
+256,ORD00256,2024-10-28,West,Customer_407,Office Supplies,Paper Pack,8,998,7984
+257,ORD00257,2024-04-13,North,Customer_153,Electronics,Keyboard,10,992,9920
+258,ORD00258,2024-01-21,East,Customer_303,Electronics,Keyboard,6,281,1686
+259,ORD00259,2024-07-22,South,Customer_372,Electronics,Printer,6,395,2370
+260,ORD00260,2024-04-12,South,Customer_158,Furniture,Desk,1,366,366
+261,ORD00261,2024-02-01,East,Customer_247,Furniture,Table,8,228,1824
+262,ORD00262,2023-09-27,North,Customer_179,Furniture,Chair,3,916,2748
+263,ORD00263,2023-11-21,North,Customer_358,Office Supplies,Pen,8,283,2264
+264,ORD00264,2023-01-28,East,Customer_282,Furniture,Cupboard,1,516,516
+265,ORD00265,2024-05-02,North,Customer_151,Electronics,Mouse,9,852,7668
+266,ORD00266,2024-10-30,West,Customer_138,Electronics,Keyboard,2,471,942
+267,ORD00267,2023-04-09,North,Customer_213,Furniture,Table,4,24,96
+268,ORD00268,2023-07-07,West,Customer_92,Electronics,Mouse,1,800,800
+269,ORD00269,2023-11-10,East,Customer_280,Furniture,Cupboard,4,739,2956
+270,ORD00270,2024-04-25,West,Customer_82,Furniture,Chair,4,869,3476
+271,ORD00271,2024-04-07,West,Customer_10,Electronics,Keyboard,3,429,1287
+272,ORD00272,2023-12-15,South,Customer_167,Office Supplies,Notebook,4,317,1268
+273,ORD00273,2024-03-12,East,Customer_446,Office Supplies,Stapler,3,390,1170
+274,ORD00274,2024-01-05,West,Customer_413,Office Supplies,Pen,8,452,3616
+275,ORD00275,2024-05-25,North,Customer_18,Furniture,Cupboard,6,264,1584
+276,ORD00276,2024-06-13,East,Customer_233,Office Supplies,Pen,2,961,1922
+277,ORD00277,2024-03-07,South,Customer_72,Office Supplies,Paper Pack,1,493,493
+278,ORD00278,2024-06-28,West,Customer_95,Furniture,Table,9,949,8541
+279,ORD00279,2024-08-03,East,Customer_374,Office Supplies,Notebook,8,854,6832
+280,ORD00280,2024-07-04,East,Customer_273,Office Supplies,Notebook,2,929,1858
+281,ORD00281,2024-01-21,East,Customer_304,Furniture,Table,6,68,408
+282,ORD00282,2023-02-13,West,Customer_43,Office Supplies,Paper Pack,7,499,3493
+283,ORD00283,2024-12-18,South,Customer_234,Furniture,Cupboard,9,504,4536
+284,ORD00284,2024-04-25,North,Customer_48,Office Supplies,Notebook,10,151,1510
+285,ORD00285,2024-08-28,South,Customer_73,Furniture,Table,7,787,5509
+286,ORD00286,2023-05-17,North,Customer_436,Office Supplies,Paper Pack,3,113,339
+287,ORD00287,2023-07-12,North,Customer_477,Office Supplies,Notebook,1,163,163
+288,ORD00288,2024-09-09,East,Customer_175,Furniture,Cupboard,1,956,956
+289,ORD00289,2023-05-16,East,Customer_29,Electronics,Laptop,2,996,1992
+290,ORD00290,2023-09-30,South,Customer_82,Electronics,Printer,3,32,96
+291,ORD00291,2023-11-22,South,Customer_317,Office Supplies,Pen,2,721,1442
+292,ORD00292,2023-04-24,West,Customer_325,Furniture,Table,3,11,33
+293,ORD00293,2023-09-15,South,Customer_434,Office Supplies,Pen,7,377,2639
+294,ORD00294,2023-02-21,North,Customer_306,Furniture,Desk,1,229,229
+295,ORD00295,2023-03-31,South,Customer_82,Office Supplies,Pen,8,131,1048
+296,ORD00296,2024-04-17,East,Customer_102,Furniture,Chair,2,646,1292
+297,ORD00297,2024-09-07,East,Customer_50,Electronics,Printer,1,22,22
+298,ORD00298,2024-06-23,South,Customer_196,Furniture,Chair,5,715,3575
+299,ORD00299,2024-01-31,South,Customer_447,Furniture,Chair,6,763,4578
+300,ORD00300,2024-01-15,West,Customer_195,Office Supplies,Notebook,3,285,855
+301,ORD00301,2023-04-19,South,Customer_385,Electronics,Keyboard,5,84,420
+302,ORD00302,2023-10-09,West,Customer_256,Furniture,Chair,10,518,5180
+303,ORD00303,2023-09-06,South,Customer_399,Furniture,Cupboard,6,989,5934
+304,ORD00304,2023-06-06,East,Customer_207,Furniture,Cupboard,4,256,1024
+305,ORD00305,2024-07-28,West,Customer_242,Furniture,Cupboard,6,286,1716
+306,ORD00306,2024-08-10,South,Customer_229,Electronics,Laptop,9,127,1143
+307,ORD00307,2023-12-15,East,Customer_54,Office Supplies,Notebook,5,240,1200
+308,ORD00308,2024-12-11,South,Customer_339,Furniture,Table,4,953,3812
+309,ORD00309,2023-08-29,North,Customer_154,Furniture,Chair,10,647,6470
+310,ORD00310,2024-02-21,North,Customer_132,Office Supplies,Notebook,9,721,6489
+311,ORD00311,2023-05-30,West,Customer_298,Furniture,Desk,3,267,801
+312,ORD00312,2024-05-14,North,Customer_203,Furniture,Cupboard,6,248,1488
+313,ORD00313,2024-11-29,East,Customer_303,Furniture,Chair,8,311,2488
+314,ORD00314,2024-10-01,West,Customer_42,Electronics,Laptop,10,484,4840
+315,ORD00315,2023-06-24,North,Customer_444,Furniture,Chair,5,342,1710
+316,ORD00316,2024-03-29,East,Customer_245,Electronics,Laptop,7,379,2653
+317,ORD00317,2024-05-03,North,Customer_264,Office Supplies,Pen,6,588,3528
+318,ORD00318,2023-06-01,East,Customer_4,Electronics,Printer,7,350,2450
+319,ORD00319,2024-06-25,South,Customer_225,Office Supplies,Notebook,10,609,6090
+320,ORD00320,2023-02-26,North,Customer_99,Electronics,Mouse,6,140,840
+321,ORD00321,2023-09-19,East,Customer_319,Office Supplies,Notebook,7,164,1148
+322,ORD00322,2023-12-09,North,Customer_472,Office Supplies,Stapler,10,970,9700
+323,ORD00323,2024-05-08,West,Customer_312,Office Supplies,Pen,7,931,6517
+324,ORD00324,2024-01-08,South,Customer_260,Furniture,Table,6,796,4776
+325,ORD00325,2024-03-07,West,Customer_167,Office Supplies,Stapler,5,36,180
+326,ORD00326,2023-08-11,East,Customer_352,Electronics,Monitor,9,473,4257
+327,ORD00327,2024-08-31,East,Customer_78,Furniture,Chair,10,956,9560
+328,ORD00328,2023-02-14,North,Customer_173,Electronics,Laptop,6,11,66
+329,ORD00329,2023-12-05,East,Customer_29,Office Supplies,Notebook,4,230,920
+330,ORD00330,2023-03-10,East,Customer_411,Electronics,Keyboard,4,993,3972
+331,ORD00331,2023-03-08,North,Customer_157,Electronics,Laptop,5,446,2230
+332,ORD00332,2023-05-07,East,Customer_148,Electronics,Mouse,4,104,416
+333,ORD00333,2024-05-08,South,Customer_315,Electronics,Laptop,4,704,2816
+334,ORD00334,2023-04-26,East,Customer_274,Furniture,Chair,6,982,5892
+335,ORD00335,2023-05-02,South,Customer_370,Furniture,Desk,10,322,3220
+336,ORD00336,2024-09-07,East,Customer_343,Office Supplies,Pen,3,408,1224
+337,ORD00337,2023-07-18,West,Customer_303,Office Supplies,Paper Pack,2,672,1344
+338,ORD00338,2024-07-07,South,Customer_183,Office Supplies,Notebook,6,357,2142
+339,ORD00339,2023-09-14,North,Customer_185,Office Supplies,Stapler,8,92,736
+340,ORD00340,2023-05-25,South,Customer_232,Furniture,Desk,1,852,852
+341,ORD00341,2024-03-12,North,Customer_277,Furniture,Table,9,926,8334
+342,ORD00342,2024-09-26,South,Customer_437,Electronics,Laptop,10,789,7890
+343,ORD00343,2024-11-23,South,Customer_462,Electronics,Mouse,8,511,4088
+344,ORD00344,2024-03-10,West,Customer_497,Electronics,Printer,9,237,2133
+345,ORD00345,2023-08-05,South,Customer_486,Electronics,Laptop,8,518,4144
+346,ORD00346,2023-10-19,North,Customer_325,Electronics,Monitor,8,243,1944
+347,ORD00347,2024-07-12,South,Customer_5,Electronics,Monitor,9,22,198
+348,ORD00348,2023-05-15,West,Customer_341,Office Supplies,Paper Pack,1,505,505
+349,ORD00349,2023-01-16,South,Customer_347,Office Supplies,Paper Pack,2,404,808
+350,ORD00350,2023-11-11,South,Customer_113,Electronics,Mouse,3,916,2748
+351,ORD00351,2024-03-27,North,Customer_364,Office Supplies,Stapler,1,815,815
+352,ORD00352,2023-04-03,South,Customer_112,Office Supplies,Pen,10,268,2680
+353,ORD00353,2024-08-27,East,Customer_418,Office Supplies,Notebook,8,314,2512
+354,ORD00354,2024-09-30,West,Customer_43,Furniture,Table,10,698,6980
+355,ORD00355,2023-05-29,West,Customer_286,Furniture,Desk,8,632,5056
+356,ORD00356,2023-01-03,North,Customer_144,Office Supplies,Pen,8,407,3256
+357,ORD00357,2023-04-06,East,Customer_210,Furniture,Desk,9,436,3924
+358,ORD00358,2023-08-26,West,Customer_293,Electronics,Keyboard,8,391,3128
+359,ORD00359,2024-05-06,North,Customer_75,Office Supplies,Notebook,7,970,6790
+360,ORD00360,2024-06-14,North,Customer_298,Furniture,Table,4,494,1976
+361,ORD00361,2023-10-08,South,Customer_311,Office Supplies,Stapler,9,138,1242
+362,ORD00362,2024-06-07,North,Customer_176,Furniture,Cupboard,7,791,5537
+363,ORD00363,2023-03-17,West,Customer_267,Furniture,Cupboard,4,502,2008
+364,ORD00364,2024-04-20,West,Customer_499,Electronics,Mouse,5,175,875
+365,ORD00365,2024-04-28,South,Customer_87,Electronics,Monitor,2,714,1428
+366,ORD00366,2023-05-06,East,Customer_448,Furniture,Chair,1,216,216
+367,ORD00367,2024-08-02,East,Customer_234,Furniture,Cupboard,2,676,1352
+368,ORD00368,2023-10-28,South,Customer_381,Furniture,Desk,7,544,3808
+369,ORD00369,2023-02-12,East,Customer_307,Electronics,Keyboard,10,967,9670
+370,ORD00370,2024-01-24,West,Customer_89,Furniture,Cupboard,6,800,4800
+371,ORD00371,2023-05-31,East,Customer_402,Electronics,Mouse,10,915,9150
+372,ORD00372,2023-10-16,North,Customer_415,Electronics,Printer,10,875,8750
+373,ORD00373,2023-04-20,West,Customer_13,Electronics,Laptop,7,642,4494
+374,ORD00374,2023-11-15,East,Customer_344,Furniture,Cupboard,6,376,2256
+375,ORD00375,2023-05-03,East,Customer_355,Electronics,Mouse,5,805,4025
+376,ORD00376,2023-08-23,South,Customer_225,Office Supplies,Stapler,10,56,560
+377,ORD00377,2023-12-12,East,Customer_389,Furniture,Desk,1,410,410
+378,ORD00378,2023-03-17,North,Customer_103,Electronics,Laptop,2,368,736
+379,ORD00379,2024-10-16,West,Customer_351,Furniture,Desk,5,429,2145
+380,ORD00380,2024-06-22,East,Customer_125,Office Supplies,Stapler,4,160,640
+381,ORD00381,2024-01-29,South,Customer_422,Furniture,Cupboard,6,333,1998
+382,ORD00382,2024-10-07,South,Customer_201,Electronics,Laptop,7,98,686
+383,ORD00383,2024-06-11,East,Customer_74,Furniture,Cupboard,6,132,792
+384,ORD00384,2023-12-13,South,Customer_65,Electronics,Keyboard,10,583,5830
+385,ORD00385,2023-03-24,West,Customer_325,Office Supplies,Paper Pack,2,182,364
+386,ORD00386,2024-10-27,South,Customer_496,Furniture,Chair,9,346,3114
+387,ORD00387,2024-02-11,East,Customer_149,Office Supplies,Notebook,10,503,5030
+388,ORD00388,2024-05-09,West,Customer_206,Electronics,Printer,7,501,3507
+389,ORD00389,2024-01-12,East,Customer_257,Furniture,Desk,4,322,1288
+390,ORD00390,2024-05-06,West,Customer_370,Furniture,Cupboard,3,430,1290
+391,ORD00391,2024-02-23,East,Customer_118,Electronics,Keyboard,4,366,1464
+392,ORD00392,2024-01-27,North,Customer_386,Furniture,Desk,1,125,125
+393,ORD00393,2023-10-29,West,Customer_217,Office Supplies,Pen,10,292,2920
+394,ORD00394,2024-03-03,North,Customer_169,Electronics,Mouse,2,994,1988
+395,ORD00395,2023-03-15,North,Customer_132,Office Supplies,Paper Pack,5,208,1040
+396,ORD00396,2023-09-05,South,Customer_473,Office Supplies,Notebook,10,483,4830
+397,ORD00397,2024-04-30,West,Customer_349,Office Supplies,Notebook,10,892,8920
+398,ORD00398,2024-02-12,East,Customer_472,Furniture,Chair,1,831,831
+399,ORD00399,2023-02-20,West,Customer_488,Electronics,Keyboard,6,359,2154
+400,ORD00400,2023-11-24,North,Customer_454,Electronics,Printer,2,640,1280
+401,ORD00401,2023-05-05,South,Customer_142,Electronics,Laptop,7,162,1134
+402,ORD00402,2023-10-12,North,Customer_480,Office Supplies,Pen,6,333,1998
+403,ORD00403,2023-03-04,West,Customer_100,Electronics,Mouse,3,280,840
+404,ORD00404,2024-10-08,North,Customer_183,Furniture,Cupboard,5,104,520
+405,ORD00405,2024-03-28,North,Customer_205,Furniture,Table,5,391,1955
+406,ORD00406,2023-02-10,North,Customer_139,Office Supplies,Stapler,10,306,3060
+407,ORD00407,2023-02-27,South,Customer_212,Electronics,Printer,8,373,2984
+408,ORD00408,2024-02-23,North,Customer_327,Office Supplies,Notebook,1,587,587
+409,ORD00409,2023-12-13,North,Customer_372,Furniture,Desk,4,230,920
+410,ORD00410,2023-08-10,West,Customer_376,Furniture,Desk,3,144,432
+411,ORD00411,2024-10-17,East,Customer_6,Electronics,Keyboard,3,509,1527
+412,ORD00412,2023-12-12,North,Customer_243,Office Supplies,Notebook,9,117,1053
+413,ORD00413,2023-06-16,North,Customer_104,Furniture,Table,2,867,1734
+414,ORD00414,2023-01-18,West,Customer_86,Furniture,Desk,8,44,352
+415,ORD00415,2023-01-21,West,Customer_183,Electronics,Laptop,9,369,3321
+416,ORD00416,2024-02-13,South,Customer_381,Furniture,Cupboard,8,328,2624
+417,ORD00417,2024-05-08,East,Customer_424,Electronics,Keyboard,4,382,1528
+418,ORD00418,2023-11-13,West,Customer_434,Office Supplies,Stapler,8,491,3928
+419,ORD00419,2023-06-18,West,Customer_403,Office Supplies,Stapler,3,707,2121
+420,ORD00420,2024-02-20,East,Customer_266,Office Supplies,Pen,5,110,550
+421,ORD00421,2023-06-15,North,Customer_412,Electronics,Keyboard,3,167,501
+422,ORD00422,2023-10-22,South,Customer_332,Furniture,Chair,8,96,768
+423,ORD00423,2023-09-27,East,Customer_170,Office Supplies,Pen,7,738,5166
+424,ORD00424,2024-06-03,South,Customer_419,Furniture,Desk,5,852,4260
+425,ORD00425,2023-10-07,West,Customer_102,Furniture,Desk,4,767,3068
+426,ORD00426,2024-08-10,West,Customer_182,Furniture,Table,10,533,5330
+427,ORD00427,2024-11-18,West,Customer_241,Furniture,Table,6,141,846
+428,ORD00428,2023-05-04,East,Customer_117,Electronics,Mouse,2,266,532
+429,ORD00429,2024-01-31,West,Customer_261,Furniture,Table,5,405,2025
+430,ORD00430,2024-01-28,East,Customer_474,Office Supplies,Stapler,1,485,485
+431,ORD00431,2024-04-14,East,Customer_371,Electronics,Mouse,2,411,822
+432,ORD00432,2023-07-09,West,Customer_104,Furniture,Table,10,928,9280
+433,ORD00433,2023-10-18,East,Customer_197,Furniture,Table,8,167,1336
+434,ORD00434,2024-06-09,East,Customer_82,Furniture,Cupboard,2,787,1574
+435,ORD00435,2023-06-05,East,Customer_454,Office Supplies,Notebook,8,231,1848
+436,ORD00436,2023-03-16,South,Customer_95,Electronics,Keyboard,5,554,2770
+437,ORD00437,2023-07-21,North,Customer_469,Furniture,Chair,3,475,1425
+438,ORD00438,2024-03-15,East,Customer_387,Furniture,Table,6,231,1386
+439,ORD00439,2024-05-09,North,Customer_325,Furniture,Cupboard,5,811,4055
+440,ORD00440,2024-01-14,South,Customer_425,Electronics,Laptop,6,468,2808
+441,ORD00441,2023-01-25,South,Customer_97,Electronics,Keyboard,7,520,3640
+442,ORD00442,2024-01-14,East,Customer_423,Office Supplies,Notebook,9,17,153
+443,ORD00443,2024-02-04,South,Customer_39,Furniture,Table,9,386,3474
+444,ORD00444,2024-12-26,East,Customer_440,Furniture,Desk,7,139,973
+445,ORD00445,2023-03-04,West,Customer_165,Furniture,Table,2,712,1424
+446,ORD00446,2024-07-21,South,Customer_212,Furniture,Chair,7,694,4858
+447,ORD00447,2024-08-14,North,Customer_76,Furniture,Chair,3,373,1119
+448,ORD00448,2024-06-25,East,Customer_357,Electronics,Printer,6,516,3096
+449,ORD00449,2023-07-06,North,Customer_140,Office Supplies,Notebook,9,116,1044
+450,ORD00450,2024-02-21,East,Customer_438,Electronics,Laptop,2,119,238
+451,ORD00451,2023-10-31,East,Customer_383,Furniture,Cupboard,4,116,464
+452,ORD00452,2024-10-14,North,Customer_147,Furniture,Table,5,398,1990
+453,ORD00453,2024-12-20,North,Customer_220,Office Supplies,Notebook,7,309,2163
+454,ORD00454,2023-09-26,East,Customer_336,Office Supplies,Paper Pack,3,278,834
+455,ORD00455,2023-12-11,South,Customer_375,Furniture,Table,8,212,1696
+456,ORD00456,2024-06-05,North,Customer_98,Furniture,Chair,6,22,132
+457,ORD00457,2023-10-10,North,Customer_65,Furniture,Chair,2,263,526
+458,ORD00458,2024-07-23,South,Customer_257,Office Supplies,Pen,10,937,9370
+459,ORD00459,2024-07-18,East,Customer_470,Office Supplies,Notebook,7,13,91
+460,ORD00460,2023-03-18,East,Customer_82,Electronics,Mouse,8,96,768
+461,ORD00461,2023-12-24,South,Customer_255,Electronics,Monitor,6,74,444
+462,ORD00462,2024-04-14,South,Customer_391,Office Supplies,Pen,2,602,1204
+463,ORD00463,2023-08-31,South,Customer_45,Office Supplies,Notebook,1,722,722
+464,ORD00464,2023-10-05,South,Customer_110,Office Supplies,Stapler,1,98,98
+465,ORD00465,2023-05-31,East,Customer_410,Furniture,Desk,6,704,4224
+466,ORD00466,2023-08-28,South,Customer_146,Furniture,Desk,9,305,2745
+467,ORD00467,2024-11-24,East,Customer_379,Furniture,Cupboard,5,310,1550
+468,ORD00468,2023-01-31,North,Customer_278,Office Supplies,Paper Pack,9,242,2178
+469,ORD00469,2024-11-14,North,Customer_71,Electronics,Keyboard,4,852,3408
+470,ORD00470,2023-02-13,West,Customer_82,Office Supplies,Notebook,9,351,3159
+471,ORD00471,2023-01-08,West,Customer_146,Office Supplies,Pen,5,650,3250
+472,ORD00472,2024-04-08,South,Customer_377,Furniture,Desk,3,342,1026
+473,ORD00473,2023-03-15,West,Customer_212,Electronics,Monitor,8,380,3040
+474,ORD00474,2023-03-29,East,Customer_491,Electronics,Monitor,2,353,706
+475,ORD00475,2023-11-15,South,Customer_361,Office Supplies,Notebook,4,132,528
+476,ORD00476,2024-10-29,South,Customer_169,Furniture,Chair,6,785,4710
+477,ORD00477,2024-05-06,West,Customer_337,Furniture,Desk,9,217,1953
+478,ORD00478,2024-04-18,West,Customer_417,Furniture,Desk,10,318,3180
+479,ORD00479,2023-11-04,North,Customer_45,Office Supplies,Pen,1,704,704
+480,ORD00480,2024-01-27,East,Customer_130,Office Supplies,Notebook,3,144,432
+481,ORD00481,2023-12-27,East,Customer_477,Electronics,Keyboard,3,432,1296
+482,ORD00482,2023-02-18,South,Customer_78,Electronics,Keyboard,2,170,340
+483,ORD00483,2023-10-08,North,Customer_399,Electronics,Mouse,2,868,1736
+484,ORD00484,2024-12-09,North,Customer_460,Furniture,Desk,3,626,1878
+485,ORD00485,2024-09-02,South,Customer_399,Electronics,Laptop,6,123,738
+486,ORD00486,2023-12-03,East,Customer_268,Electronics,Laptop,10,17,170
+487,ORD00487,2023-01-31,South,Customer_185,Office Supplies,Notebook,4,451,1804
+488,ORD00488,2023-06-15,South,Customer_28,Office Supplies,Pen,8,496,3968
+489,ORD00489,2023-05-11,East,Customer_388,Office Supplies,Pen,6,494,2964
+490,ORD00490,2023-10-14,East,Customer_274,Furniture,Chair,6,138,828
+491,ORD00491,2023-01-30,West,Customer_396,Electronics,Printer,2,990,1980
+492,ORD00492,2024-09-17,West,Customer_33,Electronics,Laptop,8,793,6344
+493,ORD00493,2024-01-20,North,Customer_28,Electronics,Monitor,10,578,5780
+494,ORD00494,2023-07-28,South,Customer_229,Electronics,Mouse,5,843,4215
+495,ORD00495,2024-03-18,South,Customer_310,Furniture,Cupboard,5,822,4110
+496,ORD00496,2024-05-06,South,Customer_101,Electronics,Mouse,10,67,670
+497,ORD00497,2023-09-02,West,Customer_239,Furniture,Table,10,581,5810
+498,ORD00498,2024-05-27,East,Customer_480,Furniture,Chair,10,588,5880
+499,ORD00499,2024-10-02,West,Customer_8,Office Supplies,Notebook,6,965,5790
+500,ORD00500,2023-03-30,North,Customer_396,Furniture,Chair,9,232,2088
+501,ORD00501,2023-11-03,North,Customer_405,Electronics,Mouse,1,973,973
+502,ORD00502,2023-11-03,East,Customer_230,Furniture,Cupboard,9,712,6408
+503,ORD00503,2024-12-20,South,Customer_311,Office Supplies,Paper Pack,4,855,3420
+504,ORD00504,2024-03-28,West,Customer_282,Furniture,Desk,10,387,3870
+505,ORD00505,2023-12-30,West,Customer_108,Office Supplies,Pen,10,571,5710
+506,ORD00506,2023-12-21,East,Customer_389,Office Supplies,Notebook,8,368,2944
+507,ORD00507,2024-08-27,South,Customer_266,Office Supplies,Notebook,7,49,343
+508,ORD00508,2024-02-11,East,Customer_476,Furniture,Desk,3,60,180
+509,ORD00509,2023-05-23,South,Customer_220,Office Supplies,Paper Pack,9,986,8874
+510,ORD00510,2024-07-07,South,Customer_149,Office Supplies,Paper Pack,6,92,552
+511,ORD00511,2023-09-23,West,Customer_136,Furniture,Cupboard,5,101,505
+512,ORD00512,2024-08-10,West,Customer_78,Furniture,Desk,2,401,802
+513,ORD00513,2024-12-04,West,Customer_304,Electronics,Keyboard,7,378,2646
+514,ORD00514,2023-11-28,North,Customer_396,Office Supplies,Notebook,4,825,3300
+515,ORD00515,2023-11-29,South,Customer_296,Office Supplies,Pen,1,93,93
+516,ORD00516,2023-03-18,North,Customer_402,Furniture,Table,3,51,153
+517,ORD00517,2024-01-09,South,Customer_193,Office Supplies,Stapler,10,717,7170
+518,ORD00518,2024-11-21,West,Customer_441,Office Supplies,Paper Pack,9,318,2862
+519,ORD00519,2024-12-13,South,Customer_479,Furniture,Cupboard,5,713,3565
+520,ORD00520,2024-03-27,East,Customer_153,Furniture,Desk,1,897,897
+521,ORD00521,2023-03-12,South,Customer_225,Electronics,Printer,5,870,4350
+522,ORD00522,2024-01-01,East,Customer_400,Furniture,Desk,4,51,204
+523,ORD00523,2024-09-20,West,Customer_258,Furniture,Cupboard,2,34,68
+524,ORD00524,2024-12-14,North,Customer_443,Office Supplies,Notebook,7,219,1533
+525,ORD00525,2023-04-24,North,Customer_252,Electronics,Mouse,1,68,68
+526,ORD00526,2023-07-13,East,Customer_248,Office Supplies,Pen,10,499,4990
+527,ORD00527,2023-10-25,West,Customer_255,Furniture,Table,6,552,3312
+528,ORD00528,2024-07-11,North,Customer_206,Office Supplies,Stapler,7,641,4487
+529,ORD00529,2023-09-04,West,Customer_244,Electronics,Keyboard,6,57,342
+530,ORD00530,2024-09-18,West,Customer_30,Electronics,Monitor,10,379,3790
+531,ORD00531,2024-02-02,South,Customer_128,Office Supplies,Pen,10,862,8620
+532,ORD00532,2023-10-31,North,Customer_204,Office Supplies,Stapler,9,950,8550
+533,ORD00533,2023-07-25,South,Customer_477,Electronics,Mouse,8,208,1664
+534,ORD00534,2024-04-15,West,Customer_292,Office Supplies,Paper Pack,7,245,1715
+535,ORD00535,2024-09-14,East,Customer_371,Electronics,Printer,6,480,2880
+536,ORD00536,2023-09-08,North,Customer_298,Electronics,Laptop,10,883,8830
+537,ORD00537,2024-10-02,North,Customer_277,Electronics,Laptop,9,574,5166
+538,ORD00538,2024-11-26,East,Customer_311,Furniture,Desk,4,336,1344
+539,ORD00539,2024-12-13,East,Customer_279,Office Supplies,Notebook,10,181,1810
+540,ORD00540,2023-02-12,East,Customer_144,Office Supplies,Notebook,3,80,240
+541,ORD00541,2023-03-07,West,Customer_261,Furniture,Cupboard,6,130,780
+542,ORD00542,2024-02-01,South,Customer_50,Office Supplies,Paper Pack,3,689,2067
+543,ORD00543,2023-05-10,East,Customer_127,Furniture,Chair,8,115,920
+544,ORD00544,2024-04-27,East,Customer_345,Furniture,Desk,3,715,2145
+545,ORD00545,2024-07-25,East,Customer_185,Furniture,Table,9,617,5553
+546,ORD00546,2024-03-12,South,Customer_221,Furniture,Cupboard,8,753,6024
+547,ORD00547,2024-01-22,West,Customer_263,Office Supplies,Pen,5,45,225
+548,ORD00548,2023-12-12,South,Customer_322,Electronics,Keyboard,5,590,2950
+549,ORD00549,2023-02-01,North,Customer_362,Furniture,Cupboard,3,360,1080
+550,ORD00550,2024-12-01,North,Customer_409,Furniture,Desk,7,351,2457
+551,ORD00551,2023-07-12,South,Customer_139,Electronics,Monitor,1,501,501
+552,ORD00552,2023-03-09,East,Customer_270,Furniture,Desk,5,380,1900
+553,ORD00553,2023-10-16,North,Customer_265,Office Supplies,Notebook,1,131,131
+554,ORD00554,2023-08-29,North,Customer_53,Electronics,Monitor,10,938,9380
+555,ORD00555,2023-09-04,West,Customer_436,Electronics,Mouse,7,103,721
+556,ORD00556,2024-05-30,South,Customer_172,Office Supplies,Notebook,2,70,140
+557,ORD00557,2024-10-24,North,Customer_201,Furniture,Cupboard,1,759,759
+558,ORD00558,2024-09-04,East,Customer_190,Office Supplies,Pen,1,55,55
+559,ORD00559,2024-05-27,West,Customer_401,Electronics,Mouse,10,967,9670
+560,ORD00560,2023-02-15,South,Customer_248,Electronics,Laptop,8,426,3408
+561,ORD00561,2024-10-26,West,Customer_177,Furniture,Cupboard,7,353,2471
+562,ORD00562,2023-05-18,North,Customer_309,Furniture,Desk,10,120,1200
+563,ORD00563,2023-11-27,South,Customer_488,Electronics,Printer,10,33,330
+564,ORD00564,2024-06-13,North,Customer_38,Office Supplies,Paper Pack,9,977,8793
+565,ORD00565,2024-10-01,West,Customer_334,Office Supplies,Pen,6,172,1032
+566,ORD00566,2024-10-26,West,Customer_403,Furniture,Desk,10,99,990
+567,ORD00567,2023-03-01,West,Customer_60,Office Supplies,Paper Pack,7,969,6783
+568,ORD00568,2023-03-12,West,Customer_178,Electronics,Mouse,10,16,160
+569,ORD00569,2024-11-20,West,Customer_372,Office Supplies,Pen,8,919,7352
+570,ORD00570,2023-09-04,South,Customer_20,Furniture,Table,10,777,7770
+571,ORD00571,2023-07-18,East,Customer_359,Electronics,Printer,9,52,468
+572,ORD00572,2024-08-01,West,Customer_94,Office Supplies,Pen,1,544,544
+573,ORD00573,2023-07-20,South,Customer_254,Office Supplies,Paper Pack,1,846,846
+574,ORD00574,2024-08-26,South,Customer_177,Furniture,Desk,10,962,9620
+575,ORD00575,2024-01-12,West,Customer_276,Furniture,Chair,10,964,9640
+576,ORD00576,2024-11-20,West,Customer_220,Office Supplies,Notebook,7,809,5663
+577,ORD00577,2024-07-08,West,Customer_113,Electronics,Printer,7,859,6013
+578,ORD00578,2023-12-17,South,Customer_261,Furniture,Chair,8,397,3176
+579,ORD00579,2023-03-17,North,Customer_491,Electronics,Mouse,3,831,2493
+580,ORD00580,2023-01-02,West,Customer_220,Office Supplies,Notebook,6,954,5724
+581,ORD00581,2023-02-13,North,Customer_213,Office Supplies,Notebook,4,424,1696
+582,ORD00582,2023-12-21,North,Customer_39,Office Supplies,Paper Pack,3,64,192
+583,ORD00583,2023-10-27,West,Customer_199,Electronics,Printer,9,451,4059
+584,ORD00584,2024-07-18,East,Customer_324,Electronics,Printer,6,385,2310
+585,ORD00585,2023-03-22,South,Customer_349,Electronics,Laptop,1,620,620
+586,ORD00586,2023-02-15,East,Customer_34,Electronics,Mouse,2,678,1356
+587,ORD00587,2024-04-16,South,Customer_365,Office Supplies,Paper Pack,1,448,448
+588,ORD00588,2023-02-07,East,Customer_37,Electronics,Laptop,9,918,8262
+589,ORD00589,2024-11-16,North,Customer_353,Electronics,Monitor,1,232,232
+590,ORD00590,2024-03-22,East,Customer_341,Furniture,Cupboard,4,153,612
+591,ORD00591,2023-05-28,North,Customer_451,Furniture,Cupboard,4,820,3280
+592,ORD00592,2023-05-04,South,Customer_5,Furniture,Chair,8,850,6800
+593,ORD00593,2024-03-10,North,Customer_482,Furniture,Chair,6,689,4134
+594,ORD00594,2023-03-31,West,Customer_204,Office Supplies,Pen,2,651,1302
+595,ORD00595,2024-06-09,North,Customer_236,Office Supplies,Paper Pack,4,271,1084
+596,ORD00596,2023-05-01,South,Customer_447,Electronics,Printer,5,438,2190
+597,ORD00597,2024-11-21,South,Customer_359,Electronics,Printer,1,482,482
+598,ORD00598,2024-07-15,South,Customer_24,Electronics,Keyboard,6,986,5916
+599,ORD00599,2024-01-23,East,Customer_430,Office Supplies,Notebook,3,506,1518
+600,ORD00600,2024-11-17,North,Customer_203,Furniture,Desk,8,785,6280
+601,ORD00601,2023-04-22,East,Customer_370,Furniture,Table,2,142,284
+602,ORD00602,2023-06-06,North,Customer_93,Furniture,Cupboard,2,593,1186
+603,ORD00603,2023-03-03,East,Customer_110,Electronics,Printer,1,956,956
+604,ORD00604,2024-07-29,South,Customer_22,Electronics,Mouse,1,535,535
+605,ORD00605,2024-10-22,West,Customer_143,Office Supplies,Notebook,2,208,416
+606,ORD00606,2023-03-16,North,Customer_83,Office Supplies,Pen,9,857,7713
+607,ORD00607,2024-02-19,West,Customer_456,Furniture,Desk,1,837,837
+608,ORD00608,2024-08-19,South,Customer_110,Office Supplies,Paper Pack,9,489,4401
+609,ORD00609,2024-04-19,West,Customer_229,Furniture,Chair,9,35,315
+610,ORD00610,2024-04-03,North,Customer_120,Furniture,Desk,5,582,2910
+611,ORD00611,2024-01-18,South,Customer_64,Electronics,Monitor,6,989,5934
+612,ORD00612,2023-05-28,West,Customer_96,Electronics,Monitor,7,765,5355
+613,ORD00613,2024-02-04,East,Customer_449,Furniture,Chair,3,772,2316
+614,ORD00614,2024-08-29,West,Customer_314,Office Supplies,Notebook,5,756,3780
+615,ORD00615,2023-09-01,East,Customer_170,Office Supplies,Stapler,10,874,8740
+616,ORD00616,2023-01-20,North,Customer_16,Office Supplies,Stapler,10,542,5420
+617,ORD00617,2023-12-20,South,Customer_395,Office Supplies,Stapler,8,12,96
+618,ORD00618,2023-04-28,South,Customer_418,Furniture,Chair,7,943,6601
+619,ORD00619,2023-04-28,West,Customer_252,Office Supplies,Stapler,1,952,952
+620,ORD00620,2024-03-05,South,Customer_400,Furniture,Table,6,72,432
+621,ORD00621,2023-11-30,East,Customer_470,Furniture,Table,3,164,492
+622,ORD00622,2023-12-30,West,Customer_53,Office Supplies,Pen,8,588,4704
+623,ORD00623,2023-08-11,East,Customer_246,Furniture,Cupboard,2,709,1418
+624,ORD00624,2024-08-05,East,Customer_460,Furniture,Chair,9,437,3933
+625,ORD00625,2023-12-07,West,Customer_316,Furniture,Chair,1,214,214
+626,ORD00626,2024-09-22,South,Customer_409,Electronics,Mouse,9,699,6291
+627,ORD00627,2023-09-18,East,Customer_169,Electronics,Keyboard,5,409,2045
+628,ORD00628,2023-04-27,East,Customer_224,Electronics,Printer,4,17,68
+629,ORD00629,2024-10-02,South,Customer_405,Office Supplies,Stapler,5,881,4405
+630,ORD00630,2024-09-03,East,Customer_45,Office Supplies,Paper Pack,9,243,2187
+631,ORD00631,2024-02-24,West,Customer_109,Furniture,Desk,5,448,2240
+632,ORD00632,2024-10-08,East,Customer_309,Office Supplies,Notebook,2,682,1364
+633,ORD00633,2024-10-31,West,Customer_296,Electronics,Laptop,8,291,2328
+634,ORD00634,2023-02-27,West,Customer_77,Furniture,Table,8,174,1392
+635,ORD00635,2024-09-21,West,Customer_321,Electronics,Printer,1,37,37
+636,ORD00636,2024-10-02,South,Customer_99,Office Supplies,Notebook,1,944,944
+637,ORD00637,2024-05-30,East,Customer_341,Furniture,Desk,1,113,113
+638,ORD00638,2024-08-01,South,Customer_70,Office Supplies,Pen,6,347,2082
+639,ORD00639,2024-08-28,West,Customer_391,Furniture,Table,1,40,40
+640,ORD00640,2023-12-20,North,Customer_412,Furniture,Cupboard,2,658,1316
+641,ORD00641,2023-05-26,East,Customer_77,Office Supplies,Notebook,8,585,4680
+642,ORD00642,2024-05-10,North,Customer_285,Office Supplies,Stapler,4,403,1612
+643,ORD00643,2023-12-14,North,Customer_81,Furniture,Cupboard,9,288,2592
+644,ORD00644,2024-07-26,East,Customer_179,Office Supplies,Paper Pack,9,423,3807
+645,ORD00645,2024-05-08,South,Customer_151,Furniture,Chair,10,333,3330
+646,ORD00646,2024-10-03,West,Customer_470,Office Supplies,Notebook,1,1000,1000
+647,ORD00647,2024-07-10,West,Customer_206,Office Supplies,Stapler,6,505,3030
+648,ORD00648,2024-07-10,East,Customer_231,Office Supplies,Notebook,5,295,1475
+649,ORD00649,2024-05-12,North,Customer_4,Electronics,Printer,8,509,4072
+650,ORD00650,2024-02-25,North,Customer_160,Electronics,Printer,2,334,668
+651,ORD00651,2023-09-14,East,Customer_409,Office Supplies,Notebook,4,270,1080
+652,ORD00652,2023-07-09,South,Customer_236,Office Supplies,Notebook,8,481,3848
+653,ORD00653,2024-01-04,South,Customer_119,Office Supplies,Paper Pack,1,979,979
+654,ORD00654,2024-02-22,East,Customer_485,Electronics,Monitor,3,234,702
+655,ORD00655,2024-05-19,East,Customer_339,Furniture,Cupboard,2,534,1068
+656,ORD00656,2024-11-21,South,Customer_186,Furniture,Desk,5,434,2170
+657,ORD00657,2023-06-11,East,Customer_135,Office Supplies,Notebook,2,765,1530
+658,ORD00658,2023-04-13,West,Customer_453,Electronics,Laptop,7,16,112
+659,ORD00659,2024-02-17,West,Customer_216,Furniture,Table,7,65,455
+660,ORD00660,2024-10-24,North,Customer_497,Furniture,Cupboard,9,515,4635
+661,ORD00661,2024-05-03,North,Customer_491,Furniture,Table,8,121,968
+662,ORD00662,2023-05-27,East,Customer_496,Furniture,Desk,1,12,12
+663,ORD00663,2023-05-06,West,Customer_225,Electronics,Monitor,1,949,949
+664,ORD00664,2023-12-30,East,Customer_426,Office Supplies,Pen,1,247,247
+665,ORD00665,2023-10-29,West,Customer_454,Office Supplies,Stapler,1,994,994
+666,ORD00666,2024-12-24,East,Customer_409,Furniture,Chair,5,78,390
+667,ORD00667,2024-07-15,North,Customer_392,Furniture,Cupboard,7,956,6692
+668,ORD00668,2023-02-12,North,Customer_407,Office Supplies,Notebook,1,641,641
+669,ORD00669,2024-08-16,South,Customer_157,Office Supplies,Stapler,3,173,519
+670,ORD00670,2023-05-13,South,Customer_316,Electronics,Monitor,6,509,3054
+671,ORD00671,2023-10-10,North,Customer_366,Office Supplies,Notebook,1,77,77
+672,ORD00672,2023-08-07,West,Customer_343,Office Supplies,Pen,7,449,3143
+673,ORD00673,2024-01-09,South,Customer_236,Electronics,Printer,6,453,2718
+674,ORD00674,2024-07-15,West,Customer_184,Furniture,Cupboard,3,560,1680
+675,ORD00675,2024-07-04,West,Customer_62,Office Supplies,Stapler,3,775,2325
+676,ORD00676,2024-06-09,West,Customer_50,Electronics,Mouse,9,440,3960
+677,ORD00677,2023-02-19,South,Customer_58,Electronics,Mouse,5,574,2870
+678,ORD00678,2023-09-12,South,Customer_186,Office Supplies,Notebook,10,654,6540
+679,ORD00679,2023-01-11,East,Customer_306,Office Supplies,Paper Pack,10,921,9210
+680,ORD00680,2024-11-21,North,Customer_28,Electronics,Keyboard,6,557,3342
+681,ORD00681,2024-10-27,South,Customer_400,Furniture,Cupboard,4,520,2080
+682,ORD00682,2023-01-31,South,Customer_295,Office Supplies,Stapler,8,534,4272
+683,ORD00683,2024-09-06,West,Customer_169,Office Supplies,Pen,3,700,2100
+684,ORD00684,2023-12-15,North,Customer_139,Office Supplies,Stapler,1,579,579
+685,ORD00685,2024-07-02,North,Customer_2,Furniture,Cupboard,4,955,3820
+686,ORD00686,2023-04-13,West,Customer_149,Electronics,Laptop,8,675,5400
+687,ORD00687,2023-01-01,North,Customer_91,Office Supplies,Stapler,2,386,772
+688,ORD00688,2024-08-19,East,Customer_206,Furniture,Table,9,239,2151
+689,ORD00689,2024-05-23,North,Customer_143,Office Supplies,Notebook,7,671,4697
+690,ORD00690,2024-01-01,South,Customer_195,Furniture,Cupboard,7,611,4277
+691,ORD00691,2024-03-25,West,Customer_428,Electronics,Keyboard,1,460,460
+692,ORD00692,2024-07-09,West,Customer_68,Furniture,Cupboard,4,707,2828
+693,ORD00693,2024-01-10,East,Customer_456,Office Supplies,Notebook,3,969,2907
+694,ORD00694,2024-10-26,North,Customer_147,Office Supplies,Pen,3,206,618
+695,ORD00695,2024-02-09,East,Customer_323,Furniture,Desk,4,688,2752
+696,ORD00696,2023-08-11,North,Customer_267,Electronics,Monitor,8,582,4656
+697,ORD00697,2024-09-09,East,Customer_312,Office Supplies,Notebook,2,801,1602
+698,ORD00698,2023-11-07,North,Customer_226,Electronics,Laptop,8,215,1720
+699,ORD00699,2023-09-11,North,Customer_48,Electronics,Keyboard,2,507,1014
+700,ORD00700,2023-12-08,East,Customer_65,Furniture,Desk,5,875,4375
+701,ORD00701,2024-11-08,South,Customer_444,Electronics,Printer,5,337,1685
+702,ORD00702,2024-10-16,West,Customer_497,Furniture,Desk,7,443,3101
+703,ORD00703,2024-06-15,South,Customer_304,Furniture,Chair,9,990,8910
+704,ORD00704,2024-06-17,North,Customer_172,Furniture,Cupboard,10,675,6750
+705,ORD00705,2023-12-25,East,Customer_416,Electronics,Monitor,5,630,3150
+706,ORD00706,2023-07-29,North,Customer_462,Furniture,Table,5,664,3320
+707,ORD00707,2024-06-14,North,Customer_84,Office Supplies,Paper Pack,5,489,2445
+708,ORD00708,2023-08-25,South,Customer_390,Electronics,Monitor,9,480,4320
+709,ORD00709,2023-10-20,East,Customer_367,Office Supplies,Paper Pack,9,146,1314
+710,ORD00710,2023-08-03,North,Customer_320,Office Supplies,Stapler,6,769,4614
+711,ORD00711,2024-02-27,South,Customer_191,Furniture,Table,8,212,1696
+712,ORD00712,2024-05-23,East,Customer_21,Electronics,Laptop,8,829,6632
+713,ORD00713,2023-06-30,West,Customer_481,Office Supplies,Pen,4,727,2908
+714,ORD00714,2023-08-24,North,Customer_94,Electronics,Printer,3,702,2106
+715,ORD00715,2023-10-04,North,Customer_84,Furniture,Chair,2,938,1876
+716,ORD00716,2024-01-06,East,Customer_497,Electronics,Laptop,8,14,112
+717,ORD00717,2024-04-26,North,Customer_307,Furniture,Chair,3,829,2487
+718,ORD00718,2024-01-12,West,Customer_438,Office Supplies,Notebook,9,30,270
+719,ORD00719,2023-11-06,East,Customer_479,Furniture,Chair,2,633,1266
+720,ORD00720,2023-08-08,West,Customer_208,Office Supplies,Stapler,4,673,2692
+721,ORD00721,2023-12-15,East,Customer_172,Office Supplies,Paper Pack,9,238,2142
+722,ORD00722,2024-07-28,South,Customer_178,Office Supplies,Paper Pack,7,297,2079
+723,ORD00723,2024-04-03,South,Customer_179,Electronics,Printer,10,732,7320
+724,ORD00724,2024-01-31,East,Customer_222,Furniture,Cupboard,5,838,4190
+725,ORD00725,2024-12-08,South,Customer_251,Furniture,Desk,1,576,576
+726,ORD00726,2023-05-03,South,Customer_452,Electronics,Printer,6,763,4578
+727,ORD00727,2024-12-04,East,Customer_206,Electronics,Mouse,1,92,92
+728,ORD00728,2023-08-12,North,Customer_290,Electronics,Printer,9,640,5760
+729,ORD00729,2024-12-13,West,Customer_73,Office Supplies,Stapler,5,466,2330
+730,ORD00730,2024-09-25,North,Customer_331,Electronics,Mouse,3,333,999
+731,ORD00731,2023-07-22,North,Customer_67,Electronics,Printer,3,754,2262
+732,ORD00732,2023-04-03,West,Customer_192,Furniture,Desk,2,526,1052
+733,ORD00733,2024-01-03,South,Customer_34,Furniture,Table,10,63,630
+734,ORD00734,2023-05-02,East,Customer_438,Electronics,Printer,1,112,112
+735,ORD00735,2024-03-08,North,Customer_12,Furniture,Chair,2,594,1188
+736,ORD00736,2023-11-26,South,Customer_381,Office Supplies,Stapler,3,500,1500
+737,ORD00737,2023-02-19,South,Customer_324,Electronics,Laptop,3,408,1224
+738,ORD00738,2023-08-07,North,Customer_136,Furniture,Table,2,723,1446
+739,ORD00739,2024-08-23,South,Customer_418,Furniture,Cupboard,7,835,5845
+740,ORD00740,2024-02-08,East,Customer_46,Electronics,Printer,10,468,4680
+741,ORD00741,2024-10-07,West,Customer_324,Furniture,Cupboard,5,284,1420
+742,ORD00742,2024-10-06,East,Customer_326,Office Supplies,Pen,2,376,752
+743,ORD00743,2024-06-09,East,Customer_222,Furniture,Desk,6,441,2646
+744,ORD00744,2024-07-18,South,Customer_448,Electronics,Keyboard,7,794,5558
+745,ORD00745,2024-10-27,South,Customer_117,Electronics,Mouse,8,596,4768
+746,ORD00746,2024-01-14,South,Customer_247,Office Supplies,Notebook,6,98,588
+747,ORD00747,2024-12-08,East,Customer_369,Office Supplies,Pen,5,702,3510
+748,ORD00748,2024-11-11,South,Customer_173,Electronics,Monitor,1,796,796
+749,ORD00749,2023-07-23,North,Customer_42,Electronics,Laptop,2,639,1278
+750,ORD00750,2023-12-13,East,Customer_428,Furniture,Cupboard,7,885,6195
+751,ORD00751,2024-08-26,North,Customer_252,Office Supplies,Pen,9,195,1755
+752,ORD00752,2024-08-13,North,Customer_431,Furniture,Desk,4,742,2968
+753,ORD00753,2023-06-18,West,Customer_429,Office Supplies,Notebook,2,75,150
+754,ORD00754,2024-11-10,East,Customer_211,Electronics,Printer,3,17,51
+755,ORD00755,2023-09-26,East,Customer_100,Furniture,Chair,8,856,6848
+756,ORD00756,2023-11-22,South,Customer_28,Electronics,Laptop,5,188,940
+757,ORD00757,2024-05-12,West,Customer_87,Electronics,Keyboard,3,56,168
+758,ORD00758,2023-05-29,West,Customer_214,Office Supplies,Stapler,1,532,532
+759,ORD00759,2024-07-27,East,Customer_310,Office Supplies,Paper Pack,10,696,6960
+760,ORD00760,2023-10-03,West,Customer_365,Office Supplies,Pen,10,399,3990
+761,ORD00761,2023-11-04,West,Customer_14,Office Supplies,Notebook,5,145,725
+762,ORD00762,2024-12-23,South,Customer_65,Electronics,Laptop,1,234,234
+763,ORD00763,2024-03-13,West,Customer_435,Furniture,Cupboard,4,308,1232
+764,ORD00764,2023-04-17,East,Customer_68,Furniture,Chair,5,858,4290
+765,ORD00765,2023-06-17,West,Customer_195,Furniture,Cupboard,2,920,1840
+766,ORD00766,2024-01-04,South,Customer_270,Office Supplies,Stapler,5,303,1515
+767,ORD00767,2024-09-23,West,Customer_192,Furniture,Desk,5,397,1985
+768,ORD00768,2023-12-26,North,Customer_434,Furniture,Chair,10,141,1410
+769,ORD00769,2024-02-12,South,Customer_462,Furniture,Table,9,50,450
+770,ORD00770,2023-09-29,East,Customer_231,Furniture,Chair,9,253,2277
+771,ORD00771,2024-12-30,East,Customer_124,Electronics,Monitor,9,524,4716
+772,ORD00772,2023-10-28,East,Customer_57,Electronics,Monitor,3,215,645
+773,ORD00773,2024-08-06,North,Customer_236,Furniture,Table,8,236,1888
+774,ORD00774,2024-11-28,South,Customer_212,Office Supplies,Pen,8,782,6256
+775,ORD00775,2024-01-26,North,Customer_208,Electronics,Keyboard,2,834,1668
+776,ORD00776,2024-03-04,South,Customer_170,Electronics,Laptop,6,25,150
+777,ORD00777,2024-05-29,East,Customer_1,Office Supplies,Pen,7,332,2324
+778,ORD00778,2023-06-02,East,Customer_255,Office Supplies,Stapler,1,56,56
+779,ORD00779,2023-01-28,East,Customer_397,Furniture,Desk,1,796,796
+780,ORD00780,2023-11-29,North,Customer_338,Furniture,Cupboard,4,985,3940
+781,ORD00781,2024-01-25,South,Customer_333,Office Supplies,Paper Pack,6,423,2538
+782,ORD00782,2024-07-17,West,Customer_6,Office Supplies,Pen,5,651,3255
+783,ORD00783,2024-08-16,North,Customer_308,Electronics,Printer,6,349,2094
+784,ORD00784,2023-07-31,North,Customer_133,Office Supplies,Paper Pack,6,317,1902
+785,ORD00785,2024-02-08,West,Customer_356,Electronics,Printer,9,127,1143
+786,ORD00786,2023-09-01,North,Customer_221,Electronics,Mouse,3,612,1836
+787,ORD00787,2024-02-26,East,Customer_331,Electronics,Laptop,7,855,5985
+788,ORD00788,2024-11-22,West,Customer_194,Electronics,Printer,4,959,3836
+789,ORD00789,2024-01-06,West,Customer_121,Electronics,Mouse,3,239,717
+790,ORD00790,2023-10-10,South,Customer_148,Furniture,Cupboard,10,168,1680
+791,ORD00791,2023-01-25,South,Customer_358,Electronics,Printer,10,447,4470
+792,ORD00792,2023-12-30,East,Customer_147,Furniture,Cupboard,6,384,2304
+793,ORD00793,2024-08-27,North,Customer_33,Electronics,Printer,8,847,6776
+794,ORD00794,2023-04-30,North,Customer_137,Office Supplies,Notebook,7,875,6125
+795,ORD00795,2023-02-18,North,Customer_259,Furniture,Chair,2,980,1960
+796,ORD00796,2023-07-18,South,Customer_55,Electronics,Keyboard,9,481,4329
+797,ORD00797,2024-03-14,East,Customer_247,Electronics,Printer,7,388,2716
+798,ORD00798,2024-06-29,West,Customer_7,Electronics,Laptop,8,324,2592
+799,ORD00799,2024-08-14,East,Customer_63,Office Supplies,Paper Pack,1,754,754
+800,ORD00800,2023-06-19,West,Customer_83,Office Supplies,Pen,7,484,3388
+801,ORD00801,2024-01-01,East,Customer_297,Office Supplies,Notebook,5,97,485
+802,ORD00802,2023-04-14,East,Customer_388,Electronics,Keyboard,5,864,4320
+803,ORD00803,2023-06-29,East,Customer_355,Electronics,Mouse,10,915,9150
+804,ORD00804,2023-05-17,West,Customer_491,Office Supplies,Pen,2,351,702
+805,ORD00805,2023-08-07,South,Customer_442,Furniture,Chair,7,690,4830
+806,ORD00806,2024-02-11,North,Customer_324,Furniture,Desk,1,387,387
+807,ORD00807,2024-11-08,East,Customer_485,Office Supplies,Stapler,3,744,2232
+808,ORD00808,2023-01-02,West,Customer_136,Office Supplies,Pen,9,236,2124
+809,ORD00809,2023-10-21,South,Customer_314,Electronics,Laptop,7,501,3507
+810,ORD00810,2024-06-15,South,Customer_10,Electronics,Printer,8,338,2704
+811,ORD00811,2023-05-27,South,Customer_451,Office Supplies,Notebook,10,477,4770
+812,ORD00812,2023-02-24,East,Customer_186,Electronics,Monitor,5,215,1075
+813,ORD00813,2024-08-21,West,Customer_108,Electronics,Mouse,8,331,2648
+814,ORD00814,2023-11-04,West,Customer_93,Furniture,Table,3,49,147
+815,ORD00815,2024-09-28,South,Customer_382,Electronics,Mouse,6,218,1308
+816,ORD00816,2023-02-22,East,Customer_451,Furniture,Desk,5,851,4255
+817,ORD00817,2023-03-17,West,Customer_294,Electronics,Mouse,2,53,106
+818,ORD00818,2024-10-26,South,Customer_177,Office Supplies,Paper Pack,1,836,836
+819,ORD00819,2024-07-20,North,Customer_421,Furniture,Desk,10,619,6190
+820,ORD00820,2023-10-22,South,Customer_280,Furniture,Chair,7,581,4067
+821,ORD00821,2023-10-25,East,Customer_22,Furniture,Chair,3,531,1593
+822,ORD00822,2024-11-13,East,Customer_488,Electronics,Laptop,5,996,4980
+823,ORD00823,2024-08-22,North,Customer_356,Electronics,Monitor,4,478,1912
+824,ORD00824,2024-11-16,North,Customer_353,Electronics,Laptop,10,594,5940
+825,ORD00825,2024-03-24,North,Customer_310,Office Supplies,Notebook,9,299,2691
+826,ORD00826,2023-10-09,South,Customer_148,Furniture,Table,10,277,2770
+827,ORD00827,2024-09-08,South,Customer_499,Electronics,Mouse,3,593,1779
+828,ORD00828,2023-10-01,North,Customer_82,Electronics,Keyboard,7,456,3192
+829,ORD00829,2024-04-12,West,Customer_16,Furniture,Chair,6,87,522
+830,ORD00830,2023-08-04,South,Customer_418,Furniture,Cupboard,5,397,1985
+831,ORD00831,2024-11-07,South,Customer_423,Furniture,Chair,7,920,6440
+832,ORD00832,2024-08-16,North,Customer_2,Office Supplies,Paper Pack,1,610,610
+833,ORD00833,2024-04-11,West,Customer_194,Office Supplies,Notebook,6,307,1842
+834,ORD00834,2024-01-15,South,Customer_405,Furniture,Chair,7,32,224
+835,ORD00835,2023-10-26,South,Customer_12,Electronics,Printer,5,666,3330
+836,ORD00836,2023-03-22,South,Customer_227,Electronics,Monitor,6,235,1410
+837,ORD00837,2024-06-18,East,Customer_488,Electronics,Keyboard,9,975,8775
+838,ORD00838,2023-06-16,North,Customer_362,Office Supplies,Paper Pack,10,169,1690
+839,ORD00839,2024-12-07,East,Customer_219,Electronics,Printer,10,111,1110
+840,ORD00840,2023-12-29,West,Customer_422,Furniture,Cupboard,8,989,7912
+841,ORD00841,2024-06-22,North,Customer_2,Office Supplies,Stapler,10,175,1750
+842,ORD00842,2023-04-06,South,Customer_423,Electronics,Printer,3,944,2832
+843,ORD00843,2024-02-05,West,Customer_93,Electronics,Keyboard,7,103,721
+844,ORD00844,2023-12-23,West,Customer_369,Furniture,Table,9,106,954
+845,ORD00845,2023-02-02,East,Customer_161,Electronics,Printer,10,347,3470
+846,ORD00846,2023-11-27,West,Customer_466,Office Supplies,Pen,2,726,1452
+847,ORD00847,2023-10-10,West,Customer_172,Office Supplies,Stapler,5,420,2100
+848,ORD00848,2024-01-13,South,Customer_444,Furniture,Chair,8,451,3608
+849,ORD00849,2024-02-18,South,Customer_431,Electronics,Laptop,2,669,1338
+850,ORD00850,2024-04-29,East,Customer_318,Furniture,Cupboard,9,285,2565
+851,ORD00851,2023-09-22,South,Customer_406,Electronics,Laptop,2,396,792
+852,ORD00852,2023-12-19,North,Customer_450,Electronics,Printer,5,177,885
+853,ORD00853,2024-04-22,South,Customer_460,Electronics,Keyboard,10,949,9490
+854,ORD00854,2024-11-25,East,Customer_425,Office Supplies,Paper Pack,6,533,3198
+855,ORD00855,2024-07-09,North,Customer_81,Furniture,Cupboard,7,116,812
+856,ORD00856,2024-08-05,South,Customer_266,Furniture,Chair,1,656,656
+857,ORD00857,2024-05-07,North,Customer_184,Furniture,Chair,3,244,732
+858,ORD00858,2024-08-30,East,Customer_55,Electronics,Printer,3,613,1839
+859,ORD00859,2023-05-22,West,Customer_459,Electronics,Laptop,10,647,6470
+860,ORD00860,2024-03-08,North,Customer_208,Office Supplies,Stapler,10,355,3550
+861,ORD00861,2023-11-01,North,Customer_425,Furniture,Chair,7,937,6559
+862,ORD00862,2024-06-26,North,Customer_85,Furniture,Table,8,772,6176
+863,ORD00863,2023-12-23,East,Customer_6,Furniture,Table,1,507,507
+864,ORD00864,2024-09-07,North,Customer_51,Furniture,Cupboard,1,805,805
+865,ORD00865,2023-01-20,South,Customer_472,Electronics,Printer,3,48,144
+866,ORD00866,2023-03-07,East,Customer_469,Office Supplies,Pen,3,973,2919
+867,ORD00867,2023-03-07,South,Customer_47,Furniture,Chair,9,848,7632
+868,ORD00868,2023-10-07,South,Customer_449,Electronics,Keyboard,4,992,3968
+869,ORD00869,2023-07-23,West,Customer_464,Furniture,Table,9,173,1557
+870,ORD00870,2023-09-14,South,Customer_215,Electronics,Laptop,10,330,3300
+871,ORD00871,2023-02-10,North,Customer_2,Electronics,Keyboard,5,552,2760
+872,ORD00872,2024-12-15,East,Customer_42,Office Supplies,Stapler,6,412,2472
+873,ORD00873,2023-01-03,West,Customer_25,Furniture,Desk,2,804,1608
+874,ORD00874,2024-01-04,West,Customer_46,Electronics,Keyboard,1,540,540
+875,ORD00875,2023-04-19,North,Customer_143,Electronics,Mouse,10,785,7850
+876,ORD00876,2024-03-03,East,Customer_331,Furniture,Desk,1,63,63
+877,ORD00877,2023-07-12,East,Customer_303,Office Supplies,Stapler,9,204,1836
+878,ORD00878,2023-09-25,South,Customer_432,Electronics,Keyboard,4,237,948
+879,ORD00879,2023-05-04,East,Customer_481,Furniture,Desk,1,697,697
+880,ORD00880,2023-09-29,South,Customer_364,Electronics,Monitor,4,676,2704
+881,ORD00881,2023-03-22,West,Customer_286,Electronics,Keyboard,3,307,921
+882,ORD00882,2023-01-27,South,Customer_395,Office Supplies,Stapler,6,542,3252
+883,ORD00883,2024-09-17,South,Customer_252,Furniture,Desk,5,109,545
+884,ORD00884,2023-04-04,West,Customer_127,Furniture,Desk,10,326,3260
+885,ORD00885,2024-10-27,North,Customer_114,Electronics,Laptop,1,618,618
+886,ORD00886,2023-09-14,North,Customer_473,Furniture,Desk,5,15,75
+887,ORD00887,2023-07-29,North,Customer_13,Office Supplies,Pen,8,686,5488
+888,ORD00888,2024-08-18,West,Customer_31,Office Supplies,Notebook,2,192,384
+889,ORD00889,2024-04-02,South,Customer_400,Office Supplies,Stapler,2,670,1340
+890,ORD00890,2024-09-07,South,Customer_239,Furniture,Table,6,632,3792
+891,ORD00891,2024-12-08,West,Customer_46,Office Supplies,Paper Pack,5,894,4470
+892,ORD00892,2023-10-09,North,Customer_137,Furniture,Desk,3,710,2130
+893,ORD00893,2024-05-26,South,Customer_264,Furniture,Desk,2,795,1590
+894,ORD00894,2024-12-15,West,Customer_52,Furniture,Cupboard,4,875,3500
+895,ORD00895,2024-04-22,South,Customer_23,Electronics,Laptop,1,91,91
+896,ORD00896,2024-08-06,East,Customer_411,Electronics,Keyboard,6,776,4656
+897,ORD00897,2023-01-30,West,Customer_439,Furniture,Desk,7,607,4249
+898,ORD00898,2023-12-01,West,Customer_17,Office Supplies,Notebook,2,564,1128
+899,ORD00899,2024-08-13,North,Customer_123,Office Supplies,Stapler,4,833,3332
+900,ORD00900,2024-12-14,East,Customer_225,Office Supplies,Pen,10,847,8470
+901,ORD00901,2023-08-09,West,Customer_129,Furniture,Table,9,21,189
+902,ORD00902,2024-07-11,West,Customer_99,Office Supplies,Notebook,8,739,5912
+903,ORD00903,2024-11-02,North,Customer_387,Electronics,Mouse,4,43,172
+904,ORD00904,2024-10-03,South,Customer_458,Office Supplies,Stapler,6,731,4386
+905,ORD00905,2024-06-14,East,Customer_397,Furniture,Cupboard,7,158,1106
+906,ORD00906,2024-09-02,North,Customer_223,Office Supplies,Pen,9,679,6111
+907,ORD00907,2023-07-10,North,Customer_327,Electronics,Keyboard,6,206,1236
+908,ORD00908,2024-05-20,East,Customer_421,Office Supplies,Stapler,6,317,1902
+909,ORD00909,2024-09-22,East,Customer_66,Office Supplies,Pen,6,163,978
+910,ORD00910,2024-04-10,East,Customer_428,Electronics,Mouse,7,867,6069
+911,ORD00911,2024-03-09,South,Customer_306,Furniture,Chair,9,526,4734
+912,ORD00912,2024-03-27,North,Customer_190,Electronics,Printer,3,483,1449
+913,ORD00913,2024-10-03,West,Customer_465,Furniture,Chair,6,825,4950
+914,ORD00914,2023-05-28,South,Customer_183,Electronics,Monitor,2,752,1504
+915,ORD00915,2023-01-07,South,Customer_255,Office Supplies,Notebook,5,845,4225
+916,ORD00916,2023-05-17,South,Customer_53,Office Supplies,Notebook,1,534,534
+917,ORD00917,2024-01-02,South,Customer_88,Office Supplies,Notebook,8,591,4728
+918,ORD00918,2023-04-18,South,Customer_395,Furniture,Table,2,193,386
+919,ORD00919,2023-09-09,South,Customer_213,Office Supplies,Paper Pack,9,864,7776
+920,ORD00920,2023-05-24,South,Customer_40,Electronics,Laptop,2,682,1364
+921,ORD00921,2024-04-07,West,Customer_280,Office Supplies,Pen,5,251,1255
+922,ORD00922,2023-06-15,North,Customer_269,Office Supplies,Stapler,4,274,1096
+923,ORD00923,2023-12-19,East,Customer_319,Furniture,Chair,1,303,303
+924,ORD00924,2023-03-07,West,Customer_302,Furniture,Chair,2,304,608
+925,ORD00925,2024-09-14,North,Customer_125,Furniture,Cupboard,8,733,5864
+926,ORD00926,2024-02-22,West,Customer_306,Furniture,Cupboard,1,290,290
+927,ORD00927,2024-09-17,East,Customer_499,Office Supplies,Stapler,4,951,3804
+928,ORD00928,2024-10-26,South,Customer_195,Furniture,Chair,2,310,620
+929,ORD00929,2023-01-01,South,Customer_113,Electronics,Monitor,1,145,145
+930,ORD00930,2023-02-17,North,Customer_121,Office Supplies,Pen,6,959,5754
+931,ORD00931,2024-12-04,South,Customer_352,Office Supplies,Pen,4,364,1456
+932,ORD00932,2024-07-15,North,Customer_158,Electronics,Keyboard,6,654,3924
+933,ORD00933,2023-07-08,North,Customer_73,Office Supplies,Stapler,9,961,8649
+934,ORD00934,2024-12-19,South,Customer_14,Office Supplies,Stapler,2,261,522
+935,ORD00935,2024-09-30,East,Customer_226,Office Supplies,Notebook,8,162,1296
+936,ORD00936,2023-05-15,West,Customer_333,Office Supplies,Paper Pack,4,480,1920
+937,ORD00937,2024-06-11,East,Customer_169,Electronics,Keyboard,4,403,1612
+938,ORD00938,2024-03-04,South,Customer_124,Office Supplies,Stapler,8,152,1216
+939,ORD00939,2023-06-18,East,Customer_69,Electronics,Laptop,3,597,1791
+940,ORD00940,2023-08-11,West,Customer_233,Furniture,Cupboard,8,993,7944
+941,ORD00941,2024-08-26,North,Customer_327,Furniture,Desk,9,300,2700
+942,ORD00942,2023-02-23,North,Customer_149,Office Supplies,Pen,7,447,3129
+943,ORD00943,2023-09-19,East,Customer_324,Office Supplies,Paper Pack,2,214,428
+944,ORD00944,2024-10-24,South,Customer_463,Office Supplies,Pen,1,333,333
+945,ORD00945,2024-06-08,West,Customer_498,Electronics,Laptop,3,20,60
+946,ORD00946,2024-04-07,South,Customer_312,Electronics,Printer,5,581,2905
+947,ORD00947,2023-08-17,South,Customer_198,Furniture,Table,4,76,304
+948,ORD00948,2024-01-10,North,Customer_356,Office Supplies,Stapler,6,330,1980
+949,ORD00949,2023-07-24,North,Customer_181,Electronics,Laptop,7,81,567
+950,ORD00950,2023-04-15,West,Customer_89,Office Supplies,Paper Pack,2,904,1808
+951,ORD00951,2024-03-31,South,Customer_21,Furniture,Cupboard,3,192,576
+952,ORD00952,2024-11-08,South,Customer_358,Office Supplies,Pen,6,242,1452
+953,ORD00953,2023-08-03,South,Customer_292,Office Supplies,Pen,1,646,646
+954,ORD00954,2023-04-15,West,Customer_428,Electronics,Monitor,10,931,9310
+955,ORD00955,2023-10-01,West,Customer_47,Office Supplies,Notebook,6,716,4296
+956,ORD00956,2023-05-28,East,Customer_476,Office Supplies,Pen,9,608,5472
+957,ORD00957,2024-04-19,North,Customer_138,Furniture,Desk,4,498,1992
+958,ORD00958,2024-04-19,East,Customer_201,Electronics,Laptop,8,349,2792
+959,ORD00959,2024-10-23,North,Customer_9,Office Supplies,Paper Pack,9,417,3753
+960,ORD00960,2024-08-08,South,Customer_444,Office Supplies,Notebook,10,588,5880
+961,ORD00961,2023-10-13,North,Customer_342,Furniture,Desk,8,165,1320
+962,ORD00962,2023-04-20,South,Customer_338,Electronics,Monitor,10,417,4170
+963,ORD00963,2024-12-01,North,Customer_425,Furniture,Table,3,910,2730
+964,ORD00964,2024-05-18,East,Customer_71,Furniture,Table,3,14,42
+965,ORD00965,2023-10-24,East,Customer_479,Electronics,Printer,8,249,1992
+966,ORD00966,2024-06-07,West,Customer_184,Office Supplies,Notebook,9,288,2592
+967,ORD00967,2023-02-10,South,Customer_419,Office Supplies,Pen,5,973,4865
+968,ORD00968,2024-10-07,South,Customer_38,Office Supplies,Paper Pack,8,932,7456
+969,ORD00969,2023-04-03,West,Customer_298,Furniture,Desk,6,68,408
+970,ORD00970,2023-08-12,East,Customer_198,Electronics,Monitor,5,255,1275
+971,ORD00971,2024-01-29,East,Customer_53,Electronics,Keyboard,9,338,3042
+972,ORD00972,2024-03-11,West,Customer_450,Furniture,Chair,10,586,5860
+973,ORD00973,2024-09-16,East,Customer_53,Electronics,Laptop,9,471,4239
+974,ORD00974,2024-11-28,North,Customer_210,Office Supplies,Stapler,9,674,6066
+975,ORD00975,2023-06-04,North,Customer_202,Office Supplies,Paper Pack,10,600,6000
+976,ORD00976,2024-09-30,West,Customer_286,Furniture,Table,10,126,1260
+977,ORD00977,2024-01-26,North,Customer_161,Office Supplies,Paper Pack,7,499,3493
+978,ORD00978,2024-07-19,South,Customer_50,Electronics,Keyboard,1,262,262
+979,ORD00979,2024-07-24,West,Customer_22,Electronics,Keyboard,10,399,3990
+980,ORD00980,2024-10-04,North,Customer_239,Electronics,Monitor,8,724,5792
+981,ORD00981,2024-08-09,North,Customer_164,Furniture,Table,3,345,1035
+982,ORD00982,2023-04-17,North,Customer_490,Electronics,Printer,8,140,1120
+983,ORD00983,2024-09-25,North,Customer_309,Electronics,Mouse,8,786,6288
+984,ORD00984,2024-02-09,West,Customer_230,Furniture,Cupboard,3,697,2091
+985,ORD00985,2023-09-15,West,Customer_236,Electronics,Monitor,4,697,2788
+986,ORD00986,2023-04-14,North,Customer_168,Electronics,Keyboard,9,657,5913
+987,ORD00987,2024-02-22,West,Customer_22,Electronics,Mouse,5,584,2920
+988,ORD00988,2023-07-01,North,Customer_493,Furniture,Table,9,816,7344
+989,ORD00989,2023-06-12,East,Customer_361,Electronics,Laptop,2,19,38
+990,ORD00990,2023-12-25,East,Customer_124,Office Supplies,Paper Pack,9,604,5436
+991,ORD00991,2024-02-27,West,Customer_132,Office Supplies,Paper Pack,4,34,136
+992,ORD00992,2024-12-29,North,Customer_343,Furniture,Chair,1,429,429
+993,ORD00993,2024-12-18,South,Customer_481,Electronics,Printer,10,808,8080
+994,ORD00994,2023-05-17,West,Customer_481,Electronics,Mouse,8,244,1952
+995,ORD00995,2024-06-14,East,Customer_315,Electronics,Printer,3,129,387
+996,ORD00996,2024-05-04,South,Customer_410,Electronics,Keyboard,7,879,6153
+997,ORD00997,2024-10-12,East,Customer_203,Furniture,Chair,6,948,5688
+998,ORD00998,2024-05-24,North,Customer_31,Electronics,Monitor,10,669,6690
+999,ORD00999,2024-07-23,West,Customer_128,Furniture,Table,7,662,4634
+1000,ORD01000,2024-04-10,North,Customer_230,Electronics,Printer,7,646,4522
+1001,ORD01001,2024-03-31,West,Customer_247,Furniture,Cupboard,4,217,868
+1002,ORD01002,2023-07-20,West,Customer_255,Electronics,Printer,1,502,502
+1003,ORD01003,2024-08-04,South,Customer_250,Electronics,Keyboard,3,683,2049
+1004,ORD01004,2024-08-20,South,Customer_205,Office Supplies,Paper Pack,4,463,1852
+1005,ORD01005,2023-12-17,South,Customer_477,Furniture,Table,3,998,2994
+1006,ORD01006,2023-05-10,East,Customer_402,Furniture,Table,2,854,1708
+1007,ORD01007,2024-04-04,North,Customer_309,Electronics,Monitor,2,648,1296
+1008,ORD01008,2023-12-30,East,Customer_404,Electronics,Mouse,5,308,1540
+1009,ORD01009,2023-01-15,South,Customer_160,Office Supplies,Pen,3,991,2973
+1010,ORD01010,2023-03-27,East,Customer_234,Furniture,Chair,3,759,2277
+1011,ORD01011,2024-07-20,West,Customer_427,Furniture,Desk,9,806,7254
+1012,ORD01012,2023-04-29,West,Customer_190,Electronics,Mouse,3,864,2592
+1013,ORD01013,2024-12-18,West,Customer_292,Furniture,Chair,9,262,2358
+1014,ORD01014,2023-08-31,South,Customer_308,Furniture,Chair,5,86,430
+1015,ORD01015,2024-10-18,South,Customer_295,Electronics,Laptop,7,187,1309
+1016,ORD01016,2024-04-05,West,Customer_345,Office Supplies,Stapler,6,823,4938
+1017,ORD01017,2023-07-30,East,Customer_103,Office Supplies,Paper Pack,10,146,1460
+1018,ORD01018,2024-06-19,North,Customer_112,Furniture,Chair,6,354,2124
+1019,ORD01019,2024-07-28,South,Customer_158,Electronics,Keyboard,10,813,8130
+1020,ORD01020,2023-03-10,West,Customer_181,Office Supplies,Notebook,3,798,2394
+1021,ORD01021,2024-02-08,North,Customer_133,Furniture,Desk,5,818,4090
+1022,ORD01022,2024-08-21,North,Customer_248,Furniture,Chair,1,424,424
+1023,ORD01023,2024-01-12,East,Customer_293,Electronics,Keyboard,4,657,2628
+1024,ORD01024,2023-06-17,West,Customer_495,Furniture,Desk,10,645,6450
+1025,ORD01025,2024-02-16,West,Customer_86,Electronics,Laptop,2,652,1304
+1026,ORD01026,2024-10-27,North,Customer_280,Furniture,Cupboard,10,527,5270
+1027,ORD01027,2023-12-02,North,Customer_28,Electronics,Laptop,3,364,1092
+1028,ORD01028,2023-11-24,North,Customer_173,Electronics,Keyboard,3,117,351
+1029,ORD01029,2023-03-28,West,Customer_391,Office Supplies,Pen,10,594,5940
+1030,ORD01030,2023-10-15,North,Customer_208,Office Supplies,Notebook,3,697,2091
+1031,ORD01031,2024-10-26,East,Customer_88,Office Supplies,Paper Pack,5,619,3095
+1032,ORD01032,2023-04-08,North,Customer_366,Office Supplies,Stapler,10,928,9280
+1033,ORD01033,2023-08-28,West,Customer_95,Furniture,Chair,2,812,1624
+1034,ORD01034,2024-03-09,South,Customer_47,Electronics,Laptop,8,382,3056
+1035,ORD01035,2024-09-14,South,Customer_474,Electronics,Monitor,1,189,189
+1036,ORD01036,2024-04-27,South,Customer_97,Furniture,Desk,10,942,9420
+1037,ORD01037,2024-05-25,West,Customer_382,Office Supplies,Stapler,1,967,967
+1038,ORD01038,2023-05-04,North,Customer_429,Electronics,Monitor,2,33,66
+1039,ORD01039,2024-09-12,East,Customer_184,Furniture,Cupboard,8,909,7272
+1040,ORD01040,2024-10-13,South,Customer_277,Furniture,Chair,3,862,2586
+1041,ORD01041,2023-11-21,West,Customer_240,Furniture,Table,2,861,1722
+1042,ORD01042,2024-12-15,West,Customer_65,Office Supplies,Stapler,2,611,1222
+1043,ORD01043,2024-11-24,East,Customer_67,Electronics,Laptop,2,140,280
+1044,ORD01044,2023-07-28,North,Customer_95,Electronics,Monitor,7,92,644
+1045,ORD01045,2024-08-13,East,Customer_10,Office Supplies,Pen,1,851,851
+1046,ORD01046,2023-06-08,North,Customer_158,Electronics,Laptop,4,324,1296
+1047,ORD01047,2023-03-13,North,Customer_335,Electronics,Monitor,1,528,528
+1048,ORD01048,2024-05-17,East,Customer_52,Electronics,Monitor,4,161,644
+1049,ORD01049,2024-09-14,West,Customer_436,Electronics,Monitor,4,369,1476
+1050,ORD01050,2024-09-27,North,Customer_428,Furniture,Desk,10,13,130
+1051,ORD01051,2024-06-14,South,Customer_308,Electronics,Monitor,8,722,5776
+1052,ORD01052,2023-12-24,West,Customer_424,Electronics,Monitor,8,827,6616
+1053,ORD01053,2024-10-14,West,Customer_40,Office Supplies,Paper Pack,3,323,969
+1054,ORD01054,2023-12-27,North,Customer_163,Furniture,Desk,5,298,1490
+1055,ORD01055,2024-06-14,East,Customer_380,Furniture,Table,7,392,2744
+1056,ORD01056,2024-05-26,North,Customer_14,Furniture,Chair,1,139,139
+1057,ORD01057,2023-08-03,South,Customer_379,Electronics,Laptop,6,388,2328
+1058,ORD01058,2024-10-09,East,Customer_151,Office Supplies,Notebook,9,311,2799
+1059,ORD01059,2023-12-11,South,Customer_261,Furniture,Cupboard,10,208,2080
+1060,ORD01060,2024-09-04,South,Customer_420,Office Supplies,Notebook,8,75,600
+1061,ORD01061,2023-11-20,West,Customer_199,Furniture,Desk,4,47,188
+1062,ORD01062,2024-01-06,West,Customer_76,Furniture,Chair,3,858,2574
+1063,ORD01063,2023-02-05,South,Customer_3,Furniture,Cupboard,2,483,966
+1064,ORD01064,2024-11-02,East,Customer_341,Electronics,Mouse,9,245,2205
+1065,ORD01065,2023-09-23,North,Customer_168,Furniture,Table,7,969,6783
+1066,ORD01066,2024-09-07,North,Customer_328,Electronics,Monitor,7,717,5019
+1067,ORD01067,2023-10-15,West,Customer_9,Office Supplies,Notebook,9,740,6660
+1068,ORD01068,2024-02-21,South,Customer_146,Furniture,Chair,9,206,1854
+1069,ORD01069,2023-04-05,North,Customer_299,Office Supplies,Pen,9,731,6579
+1070,ORD01070,2023-02-22,South,Customer_96,Furniture,Table,5,217,1085
+1071,ORD01071,2023-04-10,East,Customer_396,Furniture,Desk,4,307,1228
+1072,ORD01072,2023-02-23,East,Customer_140,Office Supplies,Stapler,5,276,1380
+1073,ORD01073,2024-11-21,South,Customer_190,Office Supplies,Notebook,8,585,4680
+1074,ORD01074,2024-01-26,South,Customer_438,Office Supplies,Stapler,4,181,724
+1075,ORD01075,2023-08-02,South,Customer_337,Office Supplies,Stapler,3,151,453
+1076,ORD01076,2023-10-11,South,Customer_197,Office Supplies,Notebook,6,879,5274
+1077,ORD01077,2024-03-28,South,Customer_391,Electronics,Keyboard,10,316,3160
+1078,ORD01078,2023-01-14,West,Customer_20,Office Supplies,Paper Pack,10,959,9590
+1079,ORD01079,2023-04-08,West,Customer_366,Electronics,Keyboard,2,764,1528
+1080,ORD01080,2024-06-11,North,Customer_191,Office Supplies,Pen,7,880,6160
+1081,ORD01081,2024-02-15,West,Customer_332,Furniture,Desk,7,843,5901
+1082,ORD01082,2024-10-14,East,Customer_97,Furniture,Cupboard,7,938,6566
+1083,ORD01083,2024-03-24,South,Customer_417,Electronics,Mouse,6,939,5634
+1084,ORD01084,2024-06-01,South,Customer_156,Office Supplies,Notebook,7,469,3283
+1085,ORD01085,2023-05-17,South,Customer_384,Electronics,Monitor,6,163,978
+1086,ORD01086,2023-07-19,North,Customer_169,Furniture,Table,8,401,3208
+1087,ORD01087,2023-08-15,South,Customer_73,Electronics,Mouse,3,763,2289
+1088,ORD01088,2023-04-02,South,Customer_39,Electronics,Mouse,9,27,243
+1089,ORD01089,2023-05-06,North,Customer_307,Office Supplies,Notebook,3,200,600
+1090,ORD01090,2024-09-07,South,Customer_49,Furniture,Chair,2,973,1946
+1091,ORD01091,2023-10-30,West,Customer_426,Electronics,Keyboard,4,966,3864
+1092,ORD01092,2023-09-26,North,Customer_153,Electronics,Printer,4,778,3112
+1093,ORD01093,2024-01-27,South,Customer_160,Electronics,Mouse,3,23,69
+1094,ORD01094,2023-03-27,East,Customer_159,Electronics,Monitor,3,574,1722
+1095,ORD01095,2024-08-29,South,Customer_362,Furniture,Cupboard,1,601,601
+1096,ORD01096,2024-01-28,North,Customer_42,Office Supplies,Stapler,1,30,30
+1097,ORD01097,2023-09-02,North,Customer_29,Electronics,Mouse,6,358,2148
+1098,ORD01098,2024-03-21,North,Customer_340,Electronics,Printer,3,336,1008
+1099,ORD01099,2024-08-27,West,Customer_75,Furniture,Table,6,400,2400
+1100,ORD01100,2023-05-06,East,Customer_435,Electronics,Monitor,10,738,7380
+1101,ORD01101,2024-11-02,East,Customer_145,Furniture,Cupboard,2,610,1220
+1102,ORD01102,2023-11-14,West,Customer_390,Electronics,Keyboard,10,725,7250
+1103,ORD01103,2023-01-20,West,Customer_29,Furniture,Cupboard,9,883,7947
+1104,ORD01104,2024-10-30,West,Customer_439,Office Supplies,Paper Pack,4,398,1592
+1105,ORD01105,2024-12-15,East,Customer_168,Office Supplies,Stapler,9,257,2313
+1106,ORD01106,2024-01-29,North,Customer_368,Electronics,Keyboard,3,967,2901
+1107,ORD01107,2023-12-14,North,Customer_189,Furniture,Table,5,775,3875
+1108,ORD01108,2023-03-28,South,Customer_180,Electronics,Mouse,2,114,228
+1109,ORD01109,2024-10-11,West,Customer_375,Office Supplies,Paper Pack,7,621,4347
+1110,ORD01110,2024-12-10,East,Customer_169,Office Supplies,Stapler,8,196,1568
+1111,ORD01111,2024-08-07,West,Customer_313,Furniture,Chair,6,905,5430
+1112,ORD01112,2024-03-19,North,Customer_13,Office Supplies,Paper Pack,4,825,3300
+1113,ORD01113,2024-08-10,North,Customer_113,Electronics,Monitor,3,299,897
+1114,ORD01114,2024-07-22,South,Customer_172,Electronics,Printer,7,383,2681
+1115,ORD01115,2024-03-06,West,Customer_37,Office Supplies,Notebook,6,943,5658
+1116,ORD01116,2024-03-07,West,Customer_177,Electronics,Mouse,6,12,72
+1117,ORD01117,2024-04-12,East,Customer_280,Electronics,Printer,6,340,2040
+1118,ORD01118,2023-06-10,West,Customer_137,Office Supplies,Notebook,9,64,576
+1119,ORD01119,2024-05-23,West,Customer_241,Electronics,Keyboard,3,120,360
+1120,ORD01120,2024-12-29,South,Customer_424,Electronics,Keyboard,5,466,2330
+1121,ORD01121,2024-10-14,West,Customer_153,Furniture,Cupboard,10,952,9520
+1122,ORD01122,2023-05-28,North,Customer_309,Electronics,Monitor,3,844,2532
+1123,ORD01123,2023-11-10,East,Customer_37,Electronics,Monitor,2,745,1490
+1124,ORD01124,2023-12-27,West,Customer_312,Furniture,Chair,1,885,885
+1125,ORD01125,2024-03-25,West,Customer_45,Furniture,Table,1,298,298
+1126,ORD01126,2023-10-31,North,Customer_230,Office Supplies,Paper Pack,2,873,1746
+1127,ORD01127,2023-03-07,South,Customer_78,Furniture,Cupboard,2,325,650
+1128,ORD01128,2024-11-16,East,Customer_192,Furniture,Chair,6,698,4188
+1129,ORD01129,2024-04-27,East,Customer_339,Electronics,Mouse,4,631,2524
+1130,ORD01130,2024-02-06,South,Customer_453,Office Supplies,Stapler,2,762,1524
+1131,ORD01131,2023-11-26,South,Customer_149,Electronics,Keyboard,9,294,2646
+1132,ORD01132,2024-04-06,East,Customer_173,Electronics,Mouse,9,972,8748
+1133,ORD01133,2023-06-11,West,Customer_294,Electronics,Monitor,2,62,124
+1134,ORD01134,2024-12-12,West,Customer_131,Furniture,Cupboard,9,384,3456
+1135,ORD01135,2024-06-02,North,Customer_138,Office Supplies,Notebook,5,806,4030
+1136,ORD01136,2023-07-02,North,Customer_93,Electronics,Laptop,5,223,1115
+1137,ORD01137,2024-08-28,East,Customer_14,Furniture,Chair,4,155,620
+1138,ORD01138,2023-04-25,North,Customer_493,Furniture,Chair,2,199,398
+1139,ORD01139,2024-12-19,South,Customer_93,Electronics,Mouse,10,602,6020
+1140,ORD01140,2024-08-22,East,Customer_440,Office Supplies,Pen,3,877,2631
+1141,ORD01141,2024-02-19,West,Customer_12,Office Supplies,Stapler,4,408,1632
+1142,ORD01142,2024-07-14,West,Customer_198,Electronics,Mouse,8,981,7848
+1143,ORD01143,2024-06-10,West,Customer_30,Furniture,Cupboard,5,150,750
+1144,ORD01144,2024-11-22,East,Customer_356,Office Supplies,Notebook,9,553,4977
+1145,ORD01145,2024-03-02,North,Customer_26,Furniture,Cupboard,10,620,6200
+1146,ORD01146,2023-11-24,East,Customer_354,Furniture,Chair,8,663,5304
+1147,ORD01147,2023-10-06,South,Customer_135,Office Supplies,Notebook,3,785,2355
+1148,ORD01148,2023-11-25,South,Customer_427,Furniture,Table,3,448,1344
+1149,ORD01149,2024-08-21,West,Customer_384,Office Supplies,Notebook,8,301,2408
+1150,ORD01150,2024-01-01,East,Customer_321,Furniture,Desk,9,133,1197
+1151,ORD01151,2024-11-17,North,Customer_192,Furniture,Cupboard,10,700,7000
+1152,ORD01152,2024-06-21,North,Customer_54,Furniture,Table,3,520,1560
+1153,ORD01153,2024-03-27,East,Customer_414,Electronics,Mouse,10,331,3310
+1154,ORD01154,2023-07-24,West,Customer_313,Office Supplies,Paper Pack,5,716,3580
+1155,ORD01155,2023-09-14,North,Customer_275,Office Supplies,Paper Pack,1,616,616
+1156,ORD01156,2024-10-21,South,Customer_302,Furniture,Cupboard,6,120,720
+1157,ORD01157,2024-11-21,East,Customer_92,Furniture,Chair,1,485,485
+1158,ORD01158,2023-04-13,South,Customer_43,Electronics,Printer,1,308,308
+1159,ORD01159,2023-04-26,West,Customer_208,Furniture,Table,10,528,5280
+1160,ORD01160,2023-05-20,West,Customer_399,Electronics,Laptop,1,483,483
+1161,ORD01161,2024-01-25,West,Customer_238,Furniture,Chair,10,743,7430
+1162,ORD01162,2023-06-12,East,Customer_302,Furniture,Cupboard,4,406,1624
+1163,ORD01163,2024-12-13,West,Customer_274,Office Supplies,Notebook,3,71,213
+1164,ORD01164,2024-02-10,West,Customer_349,Office Supplies,Stapler,8,746,5968
+1165,ORD01165,2023-12-02,North,Customer_399,Furniture,Cupboard,6,46,276
+1166,ORD01166,2023-10-30,East,Customer_50,Electronics,Mouse,2,583,1166
+1167,ORD01167,2023-06-23,East,Customer_195,Office Supplies,Paper Pack,6,328,1968
+1168,ORD01168,2023-11-24,East,Customer_240,Office Supplies,Pen,10,864,8640
+1169,ORD01169,2024-02-12,North,Customer_405,Electronics,Mouse,7,797,5579
+1170,ORD01170,2024-02-25,South,Customer_440,Furniture,Chair,5,413,2065
+1171,ORD01171,2024-05-19,West,Customer_320,Office Supplies,Notebook,6,767,4602
+1172,ORD01172,2024-03-01,West,Customer_34,Office Supplies,Pen,2,298,596
+1173,ORD01173,2023-08-11,West,Customer_371,Electronics,Printer,7,886,6202
+1174,ORD01174,2024-11-23,West,Customer_230,Office Supplies,Paper Pack,2,358,716
+1175,ORD01175,2024-04-27,East,Customer_286,Furniture,Cupboard,4,754,3016
+1176,ORD01176,2023-12-06,East,Customer_88,Electronics,Mouse,3,562,1686
+1177,ORD01177,2024-06-13,South,Customer_178,Electronics,Keyboard,5,312,1560
+1178,ORD01178,2024-07-04,East,Customer_125,Electronics,Monitor,7,467,3269
+1179,ORD01179,2024-05-24,South,Customer_35,Electronics,Monitor,2,399,798
+1180,ORD01180,2024-09-02,East,Customer_472,Electronics,Laptop,4,974,3896
+1181,ORD01181,2023-06-01,East,Customer_211,Office Supplies,Stapler,3,356,1068
+1182,ORD01182,2023-03-11,West,Customer_65,Office Supplies,Stapler,1,158,158
+1183,ORD01183,2024-05-20,East,Customer_157,Furniture,Table,3,988,2964
+1184,ORD01184,2023-07-27,East,Customer_293,Electronics,Keyboard,5,989,4945
+1185,ORD01185,2023-03-09,West,Customer_292,Furniture,Table,9,430,3870
+1186,ORD01186,2024-02-06,East,Customer_247,Electronics,Printer,2,644,1288
+1187,ORD01187,2024-10-18,North,Customer_150,Office Supplies,Pen,5,268,1340
+1188,ORD01188,2023-04-10,West,Customer_470,Office Supplies,Paper Pack,1,837,837
+1189,ORD01189,2024-01-02,South,Customer_455,Electronics,Laptop,5,236,1180
+1190,ORD01190,2024-12-03,South,Customer_361,Furniture,Chair,5,316,1580
+1191,ORD01191,2023-02-13,East,Customer_466,Furniture,Cupboard,9,104,936
+1192,ORD01192,2024-09-19,North,Customer_296,Furniture,Table,2,379,758
+1193,ORD01193,2023-01-07,East,Customer_74,Electronics,Mouse,9,560,5040
+1194,ORD01194,2024-11-19,South,Customer_349,Electronics,Keyboard,8,288,2304
+1195,ORD01195,2023-04-03,North,Customer_227,Electronics,Keyboard,7,846,5922
+1196,ORD01196,2023-01-16,South,Customer_66,Electronics,Printer,8,164,1312
+1197,ORD01197,2023-12-25,North,Customer_194,Office Supplies,Stapler,9,26,234
+1198,ORD01198,2024-09-04,West,Customer_477,Office Supplies,Paper Pack,7,805,5635
+1199,ORD01199,2023-09-30,South,Customer_424,Electronics,Mouse,6,786,4716
+1200,ORD01200,2023-02-19,South,Customer_172,Office Supplies,Stapler,1,66,66
+1201,ORD01201,2024-05-19,North,Customer_398,Furniture,Desk,8,84,672
+1202,ORD01202,2023-12-14,East,Customer_170,Furniture,Desk,8,908,7264
+1203,ORD01203,2023-09-28,South,Customer_134,Office Supplies,Stapler,9,296,2664
+1204,ORD01204,2023-08-08,South,Customer_219,Furniture,Chair,2,296,592
+1205,ORD01205,2023-10-29,West,Customer_403,Electronics,Printer,7,465,3255
+1206,ORD01206,2024-12-31,South,Customer_3,Furniture,Chair,7,215,1505
+1207,ORD01207,2023-02-19,South,Customer_302,Electronics,Mouse,10,568,5680
+1208,ORD01208,2024-07-28,South,Customer_389,Electronics,Laptop,4,53,212
+1209,ORD01209,2024-06-04,North,Customer_51,Office Supplies,Stapler,3,333,999
+1210,ORD01210,2024-05-29,East,Customer_58,Electronics,Laptop,7,765,5355
+1211,ORD01211,2024-11-08,East,Customer_196,Office Supplies,Notebook,8,371,2968
+1212,ORD01212,2024-12-17,East,Customer_481,Electronics,Monitor,2,287,574
+1213,ORD01213,2024-08-01,West,Customer_494,Electronics,Keyboard,9,113,1017
+1214,ORD01214,2024-09-16,East,Customer_414,Office Supplies,Notebook,9,249,2241
+1215,ORD01215,2024-12-01,West,Customer_188,Office Supplies,Pen,7,576,4032
+1216,ORD01216,2024-09-09,West,Customer_101,Furniture,Table,3,913,2739
+1217,ORD01217,2023-04-28,South,Customer_211,Office Supplies,Paper Pack,2,958,1916
+1218,ORD01218,2023-08-15,South,Customer_94,Electronics,Monitor,6,445,2670
+1219,ORD01219,2024-11-14,North,Customer_214,Office Supplies,Paper Pack,4,291,1164
+1220,ORD01220,2024-05-17,North,Customer_54,Office Supplies,Notebook,8,913,7304
+1221,ORD01221,2023-09-09,North,Customer_156,Office Supplies,Paper Pack,7,296,2072
+1222,ORD01222,2024-11-27,East,Customer_276,Furniture,Table,2,303,606
+1223,ORD01223,2023-06-10,West,Customer_205,Furniture,Desk,8,127,1016
+1224,ORD01224,2024-09-29,East,Customer_372,Electronics,Keyboard,1,639,639
+1225,ORD01225,2023-10-01,North,Customer_299,Electronics,Printer,5,227,1135
+1226,ORD01226,2023-04-29,North,Customer_278,Electronics,Keyboard,1,221,221
+1227,ORD01227,2023-10-03,West,Customer_491,Electronics,Laptop,1,690,690
+1228,ORD01228,2023-10-22,West,Customer_197,Furniture,Cupboard,2,222,444
+1229,ORD01229,2024-10-06,West,Customer_334,Furniture,Desk,3,572,1716
+1230,ORD01230,2024-08-30,East,Customer_391,Office Supplies,Paper Pack,10,183,1830
+1231,ORD01231,2024-07-10,North,Customer_166,Electronics,Keyboard,4,626,2504
+1232,ORD01232,2024-03-16,West,Customer_200,Furniture,Chair,1,180,180
+1233,ORD01233,2023-04-26,South,Customer_343,Furniture,Table,5,891,4455
+1234,ORD01234,2024-01-20,North,Customer_133,Office Supplies,Notebook,9,778,7002
+1235,ORD01235,2024-08-20,North,Customer_390,Furniture,Chair,9,914,8226
+1236,ORD01236,2024-07-14,West,Customer_244,Electronics,Monitor,1,554,554
+1237,ORD01237,2023-08-18,North,Customer_16,Electronics,Laptop,6,217,1302
+1238,ORD01238,2023-09-01,South,Customer_114,Furniture,Cupboard,2,457,914
+1239,ORD01239,2024-03-09,West,Customer_331,Electronics,Monitor,10,160,1600
+1240,ORD01240,2024-05-09,East,Customer_266,Furniture,Chair,1,538,538
+1241,ORD01241,2024-11-25,North,Customer_242,Electronics,Keyboard,1,235,235
+1242,ORD01242,2023-08-12,East,Customer_37,Electronics,Keyboard,10,529,5290
+1243,ORD01243,2024-05-06,South,Customer_139,Furniture,Table,5,663,3315
+1244,ORD01244,2024-06-06,South,Customer_77,Furniture,Desk,7,157,1099
+1245,ORD01245,2024-03-01,East,Customer_405,Furniture,Table,6,523,3138
+1246,ORD01246,2024-03-27,West,Customer_232,Furniture,Chair,9,245,2205
+1247,ORD01247,2023-09-29,East,Customer_379,Furniture,Desk,5,428,2140
+1248,ORD01248,2023-11-14,North,Customer_70,Electronics,Mouse,8,255,2040
+1249,ORD01249,2023-09-28,East,Customer_197,Electronics,Mouse,2,865,1730
+1250,ORD01250,2024-03-19,North,Customer_285,Electronics,Keyboard,1,722,722
+1251,ORD01251,2024-02-09,East,Customer_108,Furniture,Desk,3,332,996
+1252,ORD01252,2023-08-16,West,Customer_464,Furniture,Cupboard,3,960,2880
+1253,ORD01253,2024-06-18,North,Customer_421,Furniture,Cupboard,2,304,608
+1254,ORD01254,2023-06-17,East,Customer_371,Furniture,Cupboard,9,137,1233
+1255,ORD01255,2024-04-30,East,Customer_461,Electronics,Printer,7,148,1036
+1256,ORD01256,2023-06-06,South,Customer_393,Office Supplies,Stapler,1,44,44
+1257,ORD01257,2023-03-31,South,Customer_93,Office Supplies,Stapler,3,679,2037
+1258,ORD01258,2023-12-16,South,Customer_287,Office Supplies,Paper Pack,1,710,710
+1259,ORD01259,2023-10-13,West,Customer_447,Electronics,Monitor,9,297,2673
+1260,ORD01260,2024-06-04,West,Customer_457,Furniture,Chair,7,737,5159
+1261,ORD01261,2024-07-07,West,Customer_258,Office Supplies,Notebook,7,12,84
+1262,ORD01262,2023-10-30,East,Customer_76,Electronics,Printer,10,161,1610
+1263,ORD01263,2023-08-01,West,Customer_231,Electronics,Monitor,6,457,2742
+1264,ORD01264,2023-06-24,North,Customer_104,Furniture,Chair,3,219,657
+1265,ORD01265,2024-08-03,East,Customer_486,Electronics,Mouse,7,799,5593
+1266,ORD01266,2023-02-06,North,Customer_400,Furniture,Chair,1,604,604
+1267,ORD01267,2023-10-26,South,Customer_327,Office Supplies,Paper Pack,9,615,5535
+1268,ORD01268,2023-02-26,West,Customer_392,Office Supplies,Pen,9,51,459
+1269,ORD01269,2024-07-12,South,Customer_270,Office Supplies,Notebook,10,568,5680
+1270,ORD01270,2024-05-18,West,Customer_66,Furniture,Table,1,850,850
+1271,ORD01271,2024-12-31,East,Customer_433,Electronics,Laptop,8,544,4352
+1272,ORD01272,2023-09-05,East,Customer_69,Electronics,Monitor,1,21,21
+1273,ORD01273,2024-12-18,South,Customer_139,Office Supplies,Paper Pack,4,586,2344
+1274,ORD01274,2023-11-22,East,Customer_15,Furniture,Cupboard,7,271,1897
+1275,ORD01275,2023-07-27,East,Customer_410,Office Supplies,Notebook,9,894,8046
+1276,ORD01276,2024-04-01,West,Customer_274,Furniture,Chair,9,450,4050
+1277,ORD01277,2023-05-04,East,Customer_16,Office Supplies,Pen,7,887,6209
+1278,ORD01278,2023-09-09,North,Customer_253,Electronics,Mouse,3,752,2256
+1279,ORD01279,2023-05-31,North,Customer_274,Furniture,Desk,5,667,3335
+1280,ORD01280,2024-01-03,South,Customer_54,Office Supplies,Stapler,3,832,2496
+1281,ORD01281,2023-04-05,East,Customer_393,Office Supplies,Notebook,4,470,1880
+1282,ORD01282,2024-01-19,West,Customer_377,Electronics,Mouse,5,136,680
+1283,ORD01283,2024-11-02,West,Customer_33,Electronics,Monitor,9,910,8190
+1284,ORD01284,2023-12-19,South,Customer_445,Office Supplies,Paper Pack,9,881,7929
+1285,ORD01285,2024-12-06,East,Customer_393,Office Supplies,Stapler,9,215,1935
+1286,ORD01286,2023-03-23,South,Customer_450,Electronics,Keyboard,8,97,776
+1287,ORD01287,2024-06-15,West,Customer_275,Electronics,Printer,10,979,9790
+1288,ORD01288,2023-04-24,West,Customer_107,Electronics,Printer,4,969,3876
+1289,ORD01289,2023-07-24,East,Customer_33,Electronics,Mouse,9,186,1674
+1290,ORD01290,2023-10-05,East,Customer_387,Office Supplies,Paper Pack,3,463,1389
+1291,ORD01291,2023-12-08,South,Customer_242,Furniture,Chair,5,375,1875
+1292,ORD01292,2023-08-19,South,Customer_123,Office Supplies,Notebook,6,669,4014
+1293,ORD01293,2024-12-06,South,Customer_362,Electronics,Monitor,10,452,4520
+1294,ORD01294,2023-03-14,West,Customer_79,Electronics,Mouse,6,320,1920
+1295,ORD01295,2023-06-17,South,Customer_98,Electronics,Monitor,10,333,3330
+1296,ORD01296,2024-10-23,North,Customer_339,Furniture,Desk,10,370,3700
+1297,ORD01297,2024-08-06,West,Customer_144,Electronics,Printer,7,322,2254
+1298,ORD01298,2024-08-28,South,Customer_470,Office Supplies,Notebook,9,287,2583
+1299,ORD01299,2023-08-07,North,Customer_495,Office Supplies,Notebook,4,398,1592
+1300,ORD01300,2023-06-19,North,Customer_407,Office Supplies,Stapler,10,422,4220
+1301,ORD01301,2024-07-25,South,Customer_180,Electronics,Printer,6,805,4830
+1302,ORD01302,2023-08-28,West,Customer_89,Office Supplies,Paper Pack,6,799,4794
+1303,ORD01303,2023-08-08,East,Customer_65,Electronics,Laptop,9,773,6957
+1304,ORD01304,2024-04-17,North,Customer_268,Office Supplies,Stapler,5,703,3515
+1305,ORD01305,2024-11-29,North,Customer_470,Office Supplies,Stapler,7,339,2373
+1306,ORD01306,2023-02-22,North,Customer_211,Furniture,Desk,1,135,135
+1307,ORD01307,2024-02-03,West,Customer_269,Furniture,Cupboard,5,574,2870
+1308,ORD01308,2024-11-25,North,Customer_389,Electronics,Monitor,8,295,2360
+1309,ORD01309,2023-12-18,South,Customer_184,Electronics,Mouse,4,26,104
+1310,ORD01310,2024-05-10,East,Customer_416,Electronics,Mouse,7,167,1169
+1311,ORD01311,2024-08-08,West,Customer_198,Electronics,Laptop,2,35,70
+1312,ORD01312,2023-06-21,West,Customer_88,Furniture,Desk,4,484,1936
+1313,ORD01313,2023-01-29,West,Customer_249,Furniture,Desk,7,323,2261
+1314,ORD01314,2024-05-07,West,Customer_118,Electronics,Mouse,2,708,1416
+1315,ORD01315,2024-10-31,North,Customer_252,Furniture,Table,10,99,990
+1316,ORD01316,2024-03-08,South,Customer_31,Electronics,Monitor,6,668,4008
+1317,ORD01317,2024-04-26,North,Customer_346,Office Supplies,Notebook,1,751,751
+1318,ORD01318,2024-01-22,West,Customer_316,Office Supplies,Notebook,2,191,382
+1319,ORD01319,2024-08-06,North,Customer_175,Office Supplies,Notebook,9,318,2862
+1320,ORD01320,2023-10-01,East,Customer_431,Furniture,Chair,10,361,3610
+1321,ORD01321,2024-01-11,South,Customer_101,Electronics,Mouse,7,309,2163
+1322,ORD01322,2023-06-13,North,Customer_500,Office Supplies,Stapler,3,77,231
+1323,ORD01323,2024-08-08,North,Customer_404,Electronics,Monitor,3,648,1944
+1324,ORD01324,2024-07-04,North,Customer_345,Office Supplies,Pen,8,426,3408
+1325,ORD01325,2023-08-08,South,Customer_366,Furniture,Cupboard,1,304,304
+1326,ORD01326,2023-02-11,East,Customer_88,Office Supplies,Stapler,9,425,3825
+1327,ORD01327,2024-07-04,West,Customer_230,Office Supplies,Paper Pack,9,960,8640
+1328,ORD01328,2023-07-07,East,Customer_453,Electronics,Monitor,4,901,3604
+1329,ORD01329,2024-08-29,West,Customer_465,Electronics,Mouse,9,363,3267
+1330,ORD01330,2023-06-05,East,Customer_51,Furniture,Cupboard,6,445,2670
+1331,ORD01331,2023-09-19,South,Customer_242,Furniture,Chair,5,586,2930
+1332,ORD01332,2023-09-22,East,Customer_5,Electronics,Monitor,2,265,530
+1333,ORD01333,2023-05-16,North,Customer_457,Office Supplies,Notebook,3,246,738
+1334,ORD01334,2023-08-28,North,Customer_301,Electronics,Printer,9,307,2763
+1335,ORD01335,2023-12-17,South,Customer_370,Furniture,Desk,1,58,58
+1336,ORD01336,2024-10-19,West,Customer_456,Office Supplies,Stapler,2,716,1432
+1337,ORD01337,2023-09-26,West,Customer_85,Office Supplies,Notebook,10,946,9460
+1338,ORD01338,2024-01-16,West,Customer_399,Office Supplies,Pen,1,943,943
+1339,ORD01339,2024-12-05,North,Customer_179,Furniture,Desk,2,940,1880
+1340,ORD01340,2024-08-27,South,Customer_254,Furniture,Table,4,108,432
+1341,ORD01341,2023-01-13,East,Customer_455,Office Supplies,Notebook,2,751,1502
+1342,ORD01342,2023-10-16,North,Customer_421,Electronics,Monitor,1,14,14
+1343,ORD01343,2024-10-09,East,Customer_128,Office Supplies,Stapler,8,691,5528
+1344,ORD01344,2024-11-30,West,Customer_347,Electronics,Printer,10,136,1360
+1345,ORD01345,2024-06-13,West,Customer_389,Electronics,Keyboard,6,861,5166
+1346,ORD01346,2024-04-22,North,Customer_244,Office Supplies,Stapler,5,776,3880
+1347,ORD01347,2024-06-13,West,Customer_431,Electronics,Laptop,4,292,1168
+1348,ORD01348,2023-03-01,West,Customer_251,Electronics,Printer,9,402,3618
+1349,ORD01349,2024-03-11,North,Customer_88,Electronics,Monitor,4,723,2892
+1350,ORD01350,2023-04-26,West,Customer_439,Electronics,Mouse,1,378,378
+1351,ORD01351,2024-11-23,South,Customer_73,Office Supplies,Stapler,7,348,2436
+1352,ORD01352,2024-07-30,North,Customer_382,Office Supplies,Notebook,9,633,5697
+1353,ORD01353,2023-04-02,South,Customer_62,Electronics,Mouse,8,163,1304
+1354,ORD01354,2024-06-13,East,Customer_229,Furniture,Chair,10,603,6030
+1355,ORD01355,2023-01-03,South,Customer_409,Furniture,Desk,6,984,5904
+1356,ORD01356,2023-10-28,South,Customer_375,Office Supplies,Stapler,2,570,1140
+1357,ORD01357,2024-08-20,North,Customer_450,Office Supplies,Pen,6,857,5142
+1358,ORD01358,2023-08-27,North,Customer_414,Office Supplies,Notebook,1,501,501
+1359,ORD01359,2023-03-24,South,Customer_227,Furniture,Chair,5,139,695
+1360,ORD01360,2024-02-01,East,Customer_395,Office Supplies,Notebook,8,733,5864
+1361,ORD01361,2024-07-18,East,Customer_51,Electronics,Printer,5,729,3645
+1362,ORD01362,2023-08-24,West,Customer_100,Office Supplies,Stapler,4,831,3324
+1363,ORD01363,2023-04-14,East,Customer_128,Furniture,Table,5,593,2965
+1364,ORD01364,2023-10-15,West,Customer_491,Electronics,Mouse,7,684,4788
+1365,ORD01365,2023-03-05,East,Customer_199,Electronics,Mouse,3,324,972
+1366,ORD01366,2024-11-20,West,Customer_492,Electronics,Mouse,3,218,654
+1367,ORD01367,2023-04-29,South,Customer_277,Office Supplies,Stapler,1,538,538
+1368,ORD01368,2024-12-13,South,Customer_476,Office Supplies,Stapler,7,727,5089
+1369,ORD01369,2023-11-21,North,Customer_424,Office Supplies,Paper Pack,8,430,3440
+1370,ORD01370,2023-07-24,South,Customer_107,Office Supplies,Pen,6,296,1776
+1371,ORD01371,2024-08-28,North,Customer_136,Office Supplies,Paper Pack,5,356,1780
+1372,ORD01372,2023-12-08,West,Customer_304,Furniture,Desk,3,216,648
+1373,ORD01373,2024-10-12,East,Customer_346,Office Supplies,Notebook,1,545,545
+1374,ORD01374,2023-01-25,North,Customer_417,Furniture,Desk,7,275,1925
+1375,ORD01375,2023-07-09,West,Customer_484,Furniture,Desk,2,365,730
+1376,ORD01376,2024-09-19,West,Customer_476,Electronics,Keyboard,5,836,4180
+1377,ORD01377,2024-06-21,East,Customer_471,Furniture,Desk,1,650,650
+1378,ORD01378,2023-10-25,West,Customer_244,Furniture,Cupboard,10,948,9480
+1379,ORD01379,2023-07-18,South,Customer_112,Furniture,Chair,9,113,1017
+1380,ORD01380,2023-09-25,North,Customer_110,Electronics,Mouse,7,419,2933
+1381,ORD01381,2023-01-29,West,Customer_34,Electronics,Keyboard,8,637,5096
+1382,ORD01382,2024-05-25,West,Customer_493,Furniture,Desk,7,444,3108
+1383,ORD01383,2023-11-22,North,Customer_151,Office Supplies,Pen,9,476,4284
+1384,ORD01384,2023-04-02,South,Customer_67,Office Supplies,Paper Pack,3,662,1986
+1385,ORD01385,2023-12-31,North,Customer_117,Electronics,Keyboard,4,215,860
+1386,ORD01386,2023-08-29,West,Customer_452,Office Supplies,Notebook,7,916,6412
+1387,ORD01387,2024-07-11,West,Customer_117,Furniture,Cupboard,3,748,2244
+1388,ORD01388,2023-10-13,West,Customer_108,Electronics,Mouse,2,112,224
+1389,ORD01389,2023-09-11,South,Customer_81,Office Supplies,Paper Pack,10,95,950
+1390,ORD01390,2023-05-29,South,Customer_476,Office Supplies,Notebook,9,24,216
+1391,ORD01391,2023-02-09,South,Customer_242,Electronics,Monitor,4,193,772
+1392,ORD01392,2023-05-16,West,Customer_53,Furniture,Cupboard,1,610,610
+1393,ORD01393,2023-11-06,South,Customer_409,Electronics,Mouse,8,485,3880
+1394,ORD01394,2024-11-05,East,Customer_191,Electronics,Laptop,1,587,587
+1395,ORD01395,2024-09-06,South,Customer_324,Furniture,Chair,9,508,4572
+1396,ORD01396,2023-12-17,North,Customer_278,Electronics,Laptop,8,322,2576
+1397,ORD01397,2024-07-01,West,Customer_172,Office Supplies,Paper Pack,1,762,762
+1398,ORD01398,2024-06-04,South,Customer_69,Office Supplies,Stapler,2,113,226
+1399,ORD01399,2024-09-05,East,Customer_178,Electronics,Printer,8,941,7528
+1400,ORD01400,2024-07-20,North,Customer_308,Furniture,Cupboard,6,32,192
+1401,ORD01401,2024-04-16,North,Customer_42,Office Supplies,Notebook,6,781,4686
+1402,ORD01402,2024-03-29,East,Customer_156,Furniture,Table,9,220,1980
+1403,ORD01403,2024-03-27,East,Customer_358,Furniture,Chair,6,430,2580
+1404,ORD01404,2024-01-21,South,Customer_29,Furniture,Desk,3,416,1248
+1405,ORD01405,2024-05-15,South,Customer_217,Electronics,Keyboard,4,790,3160
+1406,ORD01406,2024-08-22,East,Customer_97,Furniture,Cupboard,7,251,1757
+1407,ORD01407,2023-12-31,North,Customer_287,Office Supplies,Notebook,10,165,1650
+1408,ORD01408,2024-12-05,East,Customer_69,Office Supplies,Pen,4,210,840
+1409,ORD01409,2023-01-23,North,Customer_451,Office Supplies,Pen,9,62,558
+1410,ORD01410,2024-07-23,East,Customer_198,Electronics,Mouse,8,531,4248
+1411,ORD01411,2023-08-30,South,Customer_241,Office Supplies,Stapler,9,959,8631
+1412,ORD01412,2023-04-30,East,Customer_364,Furniture,Cupboard,5,378,1890
+1413,ORD01413,2023-07-21,North,Customer_112,Electronics,Keyboard,7,867,6069
+1414,ORD01414,2023-05-04,West,Customer_159,Furniture,Cupboard,8,958,7664
+1415,ORD01415,2023-08-16,West,Customer_336,Furniture,Chair,10,207,2070
+1416,ORD01416,2024-05-24,West,Customer_433,Electronics,Laptop,2,664,1328
+1417,ORD01417,2023-10-20,East,Customer_429,Furniture,Table,7,258,1806
+1418,ORD01418,2024-08-10,East,Customer_429,Office Supplies,Pen,1,197,197
+1419,ORD01419,2024-03-25,West,Customer_448,Electronics,Monitor,9,906,8154
+1420,ORD01420,2023-06-04,North,Customer_453,Electronics,Printer,1,149,149
+1421,ORD01421,2023-02-02,East,Customer_19,Office Supplies,Pen,7,881,6167
+1422,ORD01422,2024-07-06,West,Customer_150,Electronics,Laptop,4,423,1692
+1423,ORD01423,2023-09-22,South,Customer_56,Furniture,Table,10,481,4810
+1424,ORD01424,2024-07-16,East,Customer_20,Electronics,Laptop,2,814,1628
+1425,ORD01425,2024-01-15,West,Customer_461,Furniture,Chair,5,290,1450
+1426,ORD01426,2023-10-15,South,Customer_210,Furniture,Table,4,106,424
+1427,ORD01427,2024-07-26,East,Customer_309,Furniture,Desk,2,888,1776
+1428,ORD01428,2023-06-08,West,Customer_434,Office Supplies,Notebook,10,977,9770
+1429,ORD01429,2024-04-26,North,Customer_95,Office Supplies,Notebook,7,129,903
+1430,ORD01430,2023-02-19,East,Customer_189,Furniture,Desk,3,683,2049
+1431,ORD01431,2024-07-21,West,Customer_36,Furniture,Table,10,618,6180
+1432,ORD01432,2024-08-20,East,Customer_114,Furniture,Table,1,397,397
+1433,ORD01433,2023-03-04,North,Customer_204,Electronics,Laptop,5,727,3635
+1434,ORD01434,2024-05-22,North,Customer_472,Furniture,Chair,5,953,4765
+1435,ORD01435,2024-04-06,South,Customer_370,Electronics,Keyboard,2,548,1096
+1436,ORD01436,2023-12-31,West,Customer_188,Office Supplies,Stapler,3,217,651
+1437,ORD01437,2024-08-01,East,Customer_164,Furniture,Desk,6,29,174
+1438,ORD01438,2024-06-04,West,Customer_311,Office Supplies,Pen,10,387,3870
+1439,ORD01439,2024-02-25,South,Customer_145,Office Supplies,Pen,7,712,4984
+1440,ORD01440,2024-08-17,East,Customer_479,Office Supplies,Stapler,10,971,9710
+1441,ORD01441,2023-07-05,South,Customer_366,Furniture,Desk,8,403,3224
+1442,ORD01442,2023-08-02,West,Customer_95,Furniture,Table,1,273,273
+1443,ORD01443,2023-05-12,North,Customer_396,Furniture,Chair,2,684,1368
+1444,ORD01444,2023-10-01,South,Customer_295,Furniture,Desk,4,889,3556
+1445,ORD01445,2024-10-06,South,Customer_33,Office Supplies,Stapler,3,786,2358
+1446,ORD01446,2024-11-24,South,Customer_103,Electronics,Keyboard,10,705,7050
+1447,ORD01447,2023-08-07,North,Customer_367,Office Supplies,Notebook,4,974,3896
+1448,ORD01448,2024-11-15,South,Customer_296,Electronics,Monitor,2,380,760
+1449,ORD01449,2023-02-02,East,Customer_477,Electronics,Mouse,3,934,2802
+1450,ORD01450,2023-08-28,South,Customer_320,Furniture,Table,8,370,2960
+1451,ORD01451,2023-02-22,West,Customer_410,Office Supplies,Stapler,9,922,8298
+1452,ORD01452,2023-09-23,South,Customer_51,Office Supplies,Notebook,3,144,432
+1453,ORD01453,2024-11-16,West,Customer_86,Office Supplies,Stapler,1,948,948
+1454,ORD01454,2024-11-10,South,Customer_99,Electronics,Printer,1,954,954
+1455,ORD01455,2023-07-31,West,Customer_383,Electronics,Printer,6,986,5916
+1456,ORD01456,2023-12-16,North,Customer_28,Electronics,Printer,8,905,7240
+1457,ORD01457,2023-01-02,South,Customer_321,Electronics,Mouse,8,328,2624
+1458,ORD01458,2023-01-27,South,Customer_159,Electronics,Keyboard,4,173,692
+1459,ORD01459,2024-11-14,South,Customer_349,Furniture,Desk,8,493,3944
+1460,ORD01460,2024-09-13,North,Customer_70,Furniture,Table,4,212,848
+1461,ORD01461,2024-11-15,North,Customer_312,Office Supplies,Stapler,7,476,3332
+1462,ORD01462,2024-03-10,East,Customer_274,Electronics,Mouse,1,247,247
+1463,ORD01463,2023-05-08,East,Customer_404,Electronics,Printer,1,403,403
+1464,ORD01464,2024-12-24,East,Customer_143,Office Supplies,Paper Pack,4,679,2716
+1465,ORD01465,2023-07-30,East,Customer_35,Electronics,Keyboard,4,252,1008
+1466,ORD01466,2023-10-31,South,Customer_385,Furniture,Cupboard,7,398,2786
+1467,ORD01467,2023-03-04,North,Customer_46,Office Supplies,Paper Pack,5,341,1705
+1468,ORD01468,2023-12-01,West,Customer_384,Electronics,Laptop,1,92,92
+1469,ORD01469,2024-05-05,West,Customer_287,Electronics,Keyboard,10,268,2680
+1470,ORD01470,2023-10-27,West,Customer_382,Furniture,Chair,7,305,2135
+1471,ORD01471,2023-07-31,East,Customer_164,Electronics,Keyboard,3,173,519
+1472,ORD01472,2024-01-23,West,Customer_352,Electronics,Keyboard,7,697,4879
+1473,ORD01473,2023-12-06,West,Customer_133,Electronics,Laptop,4,710,2840
+1474,ORD01474,2024-08-05,East,Customer_462,Furniture,Cupboard,5,772,3860
+1475,ORD01475,2023-06-15,North,Customer_342,Electronics,Monitor,5,329,1645
+1476,ORD01476,2023-06-02,South,Customer_130,Furniture,Cupboard,9,612,5508
+1477,ORD01477,2023-01-07,South,Customer_224,Office Supplies,Pen,6,302,1812
+1478,ORD01478,2023-05-15,North,Customer_171,Office Supplies,Pen,6,712,4272
+1479,ORD01479,2023-10-03,West,Customer_421,Office Supplies,Stapler,9,956,8604
+1480,ORD01480,2023-05-08,South,Customer_76,Furniture,Table,2,531,1062
+1481,ORD01481,2023-04-02,West,Customer_34,Electronics,Mouse,9,455,4095
+1482,ORD01482,2023-01-02,North,Customer_259,Furniture,Cupboard,4,715,2860
+1483,ORD01483,2023-12-17,South,Customer_326,Electronics,Laptop,1,364,364
+1484,ORD01484,2024-08-31,North,Customer_65,Furniture,Table,8,825,6600
+1485,ORD01485,2024-05-17,South,Customer_155,Furniture,Table,3,443,1329
+1486,ORD01486,2023-11-17,North,Customer_201,Electronics,Monitor,8,502,4016
+1487,ORD01487,2024-02-08,North,Customer_18,Electronics,Laptop,2,881,1762
+1488,ORD01488,2023-07-18,West,Customer_175,Electronics,Mouse,7,643,4501
+1489,ORD01489,2023-09-14,East,Customer_330,Furniture,Desk,6,937,5622
+1490,ORD01490,2023-11-20,South,Customer_35,Office Supplies,Paper Pack,8,222,1776
+1491,ORD01491,2024-10-04,South,Customer_83,Office Supplies,Stapler,6,165,990
+1492,ORD01492,2024-08-27,West,Customer_29,Office Supplies,Pen,6,746,4476
+1493,ORD01493,2024-03-05,South,Customer_440,Furniture,Chair,4,750,3000
+1494,ORD01494,2023-11-11,South,Customer_21,Electronics,Monitor,3,697,2091
+1495,ORD01495,2023-11-10,East,Customer_181,Electronics,Keyboard,9,202,1818
+1496,ORD01496,2024-07-16,South,Customer_311,Office Supplies,Paper Pack,8,430,3440
+1497,ORD01497,2023-05-14,West,Customer_306,Office Supplies,Notebook,9,157,1413
+1498,ORD01498,2023-09-29,West,Customer_471,Office Supplies,Notebook,8,71,568
+1499,ORD01499,2023-10-19,South,Customer_378,Electronics,Printer,1,729,729
+1500,ORD01500,2023-11-11,South,Customer_225,Electronics,Mouse,4,91,364
+1501,ORD01501,2023-05-02,North,Customer_90,Electronics,Keyboard,7,476,3332
+1502,ORD01502,2023-03-02,West,Customer_129,Furniture,Desk,7,666,4662
+1503,ORD01503,2024-12-12,South,Customer_280,Furniture,Table,8,922,7376
+1504,ORD01504,2023-08-17,South,Customer_411,Electronics,Keyboard,10,465,4650
+1505,ORD01505,2024-07-21,North,Customer_317,Electronics,Printer,3,251,753
+1506,ORD01506,2024-07-12,North,Customer_227,Furniture,Chair,9,849,7641
+1507,ORD01507,2024-05-19,West,Customer_16,Furniture,Desk,6,908,5448
+1508,ORD01508,2024-11-20,North,Customer_114,Furniture,Desk,9,181,1629
+1509,ORD01509,2023-10-13,West,Customer_427,Electronics,Laptop,3,943,2829
+1510,ORD01510,2023-06-13,West,Customer_320,Electronics,Keyboard,9,807,7263
+1511,ORD01511,2024-12-18,East,Customer_118,Electronics,Monitor,5,625,3125
+1512,ORD01512,2024-07-20,North,Customer_188,Electronics,Monitor,10,833,8330
+1513,ORD01513,2024-01-01,East,Customer_128,Furniture,Chair,2,674,1348
+1514,ORD01514,2024-01-20,West,Customer_68,Office Supplies,Stapler,6,917,5502
+1515,ORD01515,2024-05-05,South,Customer_194,Furniture,Desk,7,914,6398
+1516,ORD01516,2024-09-17,West,Customer_197,Electronics,Mouse,10,555,5550
+1517,ORD01517,2024-12-04,North,Customer_393,Furniture,Table,10,694,6940
+1518,ORD01518,2023-06-22,North,Customer_440,Electronics,Mouse,9,639,5751
+1519,ORD01519,2024-03-02,South,Customer_185,Furniture,Desk,2,399,798
+1520,ORD01520,2024-09-25,East,Customer_325,Electronics,Mouse,6,137,822
+1521,ORD01521,2023-07-28,West,Customer_224,Electronics,Monitor,5,766,3830
+1522,ORD01522,2024-09-15,North,Customer_111,Office Supplies,Paper Pack,5,659,3295
+1523,ORD01523,2023-01-10,West,Customer_480,Furniture,Cupboard,6,987,5922
+1524,ORD01524,2024-01-08,East,Customer_64,Furniture,Cupboard,4,96,384
+1525,ORD01525,2023-02-06,South,Customer_68,Electronics,Laptop,7,388,2716
+1526,ORD01526,2024-07-29,East,Customer_444,Electronics,Keyboard,1,140,140
+1527,ORD01527,2024-12-06,East,Customer_189,Furniture,Chair,10,823,8230
+1528,ORD01528,2024-07-22,East,Customer_326,Office Supplies,Stapler,6,423,2538
+1529,ORD01529,2023-02-17,East,Customer_155,Electronics,Monitor,5,818,4090
+1530,ORD01530,2024-01-12,South,Customer_213,Office Supplies,Stapler,9,541,4869
+1531,ORD01531,2023-12-13,South,Customer_184,Office Supplies,Notebook,10,1000,10000
+1532,ORD01532,2024-04-24,South,Customer_170,Electronics,Mouse,1,690,690
+1533,ORD01533,2023-10-24,South,Customer_414,Office Supplies,Pen,7,604,4228
+1534,ORD01534,2023-08-25,North,Customer_330,Electronics,Printer,10,479,4790
+1535,ORD01535,2023-11-15,East,Customer_161,Electronics,Mouse,1,547,547
+1536,ORD01536,2023-05-23,South,Customer_10,Office Supplies,Stapler,1,540,540
+1537,ORD01537,2024-08-08,East,Customer_344,Electronics,Keyboard,1,351,351
+1538,ORD01538,2024-01-03,North,Customer_474,Furniture,Desk,3,857,2571
+1539,ORD01539,2023-09-16,West,Customer_196,Furniture,Cupboard,8,913,7304
+1540,ORD01540,2024-06-21,East,Customer_399,Furniture,Table,8,525,4200
+1541,ORD01541,2023-07-08,East,Customer_417,Furniture,Table,7,170,1190
+1542,ORD01542,2023-06-11,East,Customer_371,Furniture,Cupboard,1,648,648
+1543,ORD01543,2023-02-28,North,Customer_122,Office Supplies,Pen,2,454,908
+1544,ORD01544,2023-06-12,North,Customer_475,Electronics,Monitor,4,527,2108
+1545,ORD01545,2023-09-06,South,Customer_144,Office Supplies,Stapler,5,403,2015
+1546,ORD01546,2023-03-30,East,Customer_272,Furniture,Desk,10,423,4230
+1547,ORD01547,2024-02-18,South,Customer_410,Office Supplies,Paper Pack,2,908,1816
+1548,ORD01548,2023-06-17,West,Customer_302,Furniture,Cupboard,9,161,1449
+1549,ORD01549,2023-11-05,North,Customer_309,Office Supplies,Paper Pack,2,119,238
+1550,ORD01550,2023-08-06,South,Customer_203,Furniture,Chair,2,996,1992
+1551,ORD01551,2023-04-08,South,Customer_86,Furniture,Desk,8,381,3048
+1552,ORD01552,2023-05-29,North,Customer_455,Office Supplies,Paper Pack,8,543,4344
+1553,ORD01553,2023-05-04,East,Customer_178,Electronics,Monitor,7,879,6153
+1554,ORD01554,2024-01-23,East,Customer_155,Furniture,Chair,4,664,2656
+1555,ORD01555,2023-08-04,East,Customer_53,Furniture,Desk,10,737,7370
+1556,ORD01556,2024-02-02,East,Customer_138,Furniture,Cupboard,8,917,7336
+1557,ORD01557,2023-08-07,West,Customer_467,Furniture,Desk,3,15,45
+1558,ORD01558,2023-05-05,East,Customer_276,Electronics,Mouse,4,784,3136
+1559,ORD01559,2023-08-29,South,Customer_70,Office Supplies,Paper Pack,7,108,756
+1560,ORD01560,2023-08-07,East,Customer_464,Furniture,Chair,9,455,4095
+1561,ORD01561,2023-03-02,East,Customer_329,Electronics,Mouse,3,907,2721
+1562,ORD01562,2023-06-25,West,Customer_366,Office Supplies,Paper Pack,4,380,1520
+1563,ORD01563,2023-01-11,East,Customer_251,Electronics,Laptop,9,451,4059
+1564,ORD01564,2023-06-18,South,Customer_131,Electronics,Mouse,2,353,706
+1565,ORD01565,2023-06-12,South,Customer_245,Electronics,Monitor,3,811,2433
+1566,ORD01566,2024-12-13,South,Customer_404,Electronics,Laptop,1,893,893
+1567,ORD01567,2023-02-24,East,Customer_399,Office Supplies,Stapler,3,437,1311
+1568,ORD01568,2024-12-25,North,Customer_145,Furniture,Cupboard,8,645,5160
+1569,ORD01569,2023-04-26,South,Customer_284,Furniture,Desk,1,914,914
+1570,ORD01570,2024-09-02,North,Customer_377,Furniture,Table,6,974,5844
+1571,ORD01571,2023-01-12,South,Customer_300,Office Supplies,Paper Pack,3,156,468
+1572,ORD01572,2023-12-28,West,Customer_381,Furniture,Table,4,789,3156
+1573,ORD01573,2024-06-09,East,Customer_151,Electronics,Mouse,8,271,2168
+1574,ORD01574,2023-10-08,North,Customer_184,Office Supplies,Paper Pack,10,27,270
+1575,ORD01575,2024-12-25,North,Customer_413,Office Supplies,Stapler,9,818,7362
+1576,ORD01576,2023-04-25,East,Customer_55,Electronics,Printer,9,244,2196
+1577,ORD01577,2023-07-20,North,Customer_418,Office Supplies,Pen,6,713,4278
+1578,ORD01578,2023-03-12,West,Customer_320,Furniture,Cupboard,5,364,1820
+1579,ORD01579,2023-05-07,East,Customer_434,Office Supplies,Stapler,4,619,2476
+1580,ORD01580,2024-12-12,South,Customer_486,Office Supplies,Stapler,5,28,140
+1581,ORD01581,2023-07-04,East,Customer_377,Furniture,Desk,3,625,1875
+1582,ORD01582,2024-09-25,East,Customer_183,Office Supplies,Stapler,3,714,2142
+1583,ORD01583,2023-03-02,West,Customer_35,Office Supplies,Pen,8,577,4616
+1584,ORD01584,2023-06-29,South,Customer_450,Furniture,Chair,9,217,1953
+1585,ORD01585,2023-05-29,East,Customer_106,Furniture,Cupboard,2,365,730
+1586,ORD01586,2024-01-19,East,Customer_67,Furniture,Table,6,405,2430
+1587,ORD01587,2023-08-19,West,Customer_451,Furniture,Chair,1,624,624
+1588,ORD01588,2024-03-29,South,Customer_204,Office Supplies,Stapler,1,130,130
+1589,ORD01589,2023-02-09,West,Customer_482,Furniture,Table,9,762,6858
+1590,ORD01590,2024-12-12,East,Customer_70,Furniture,Desk,6,799,4794
+1591,ORD01591,2023-04-06,South,Customer_494,Office Supplies,Pen,8,633,5064
+1592,ORD01592,2023-10-11,North,Customer_195,Electronics,Monitor,10,352,3520
+1593,ORD01593,2024-10-06,South,Customer_1,Furniture,Chair,6,689,4134
+1594,ORD01594,2023-09-15,West,Customer_59,Office Supplies,Notebook,7,63,441
+1595,ORD01595,2024-03-23,West,Customer_435,Electronics,Mouse,1,334,334
+1596,ORD01596,2023-07-05,West,Customer_190,Furniture,Table,6,269,1614
+1597,ORD01597,2023-10-31,South,Customer_113,Electronics,Keyboard,3,145,435
+1598,ORD01598,2023-12-25,North,Customer_309,Electronics,Laptop,4,529,2116
+1599,ORD01599,2024-02-13,West,Customer_472,Electronics,Keyboard,10,138,1380
+1600,ORD01600,2024-08-18,East,Customer_169,Furniture,Desk,3,866,2598
+1601,ORD01601,2024-02-09,East,Customer_237,Furniture,Chair,6,320,1920
+1602,ORD01602,2023-01-18,East,Customer_164,Office Supplies,Notebook,3,554,1662
+1603,ORD01603,2023-09-05,West,Customer_429,Office Supplies,Pen,3,202,606
+1604,ORD01604,2023-08-21,South,Customer_318,Office Supplies,Pen,5,102,510
+1605,ORD01605,2024-11-21,East,Customer_196,Electronics,Mouse,1,368,368
+1606,ORD01606,2023-05-21,North,Customer_269,Office Supplies,Pen,7,927,6489
+1607,ORD01607,2023-08-13,East,Customer_165,Office Supplies,Notebook,2,960,1920
+1608,ORD01608,2024-05-09,East,Customer_149,Electronics,Monitor,6,247,1482
+1609,ORD01609,2024-10-03,North,Customer_486,Electronics,Monitor,6,463,2778
+1610,ORD01610,2024-01-06,South,Customer_310,Office Supplies,Paper Pack,7,123,861
+1611,ORD01611,2024-12-04,South,Customer_2,Electronics,Laptop,4,941,3764
+1612,ORD01612,2023-09-02,East,Customer_399,Electronics,Monitor,2,507,1014
+1613,ORD01613,2024-02-07,East,Customer_408,Office Supplies,Paper Pack,2,283,566
+1614,ORD01614,2023-09-05,South,Customer_103,Office Supplies,Pen,9,987,8883
+1615,ORD01615,2024-01-07,North,Customer_15,Electronics,Mouse,10,443,4430
+1616,ORD01616,2024-08-31,North,Customer_245,Furniture,Cupboard,9,228,2052
+1617,ORD01617,2023-10-05,North,Customer_197,Electronics,Printer,10,588,5880
+1618,ORD01618,2023-07-17,East,Customer_169,Furniture,Table,9,145,1305
+1619,ORD01619,2023-10-24,West,Customer_467,Furniture,Desk,8,273,2184
+1620,ORD01620,2023-08-18,South,Customer_431,Electronics,Laptop,6,873,5238
+1621,ORD01621,2023-02-17,East,Customer_484,Office Supplies,Pen,9,856,7704
+1622,ORD01622,2024-12-26,West,Customer_383,Furniture,Desk,2,614,1228
+1623,ORD01623,2023-11-09,North,Customer_225,Furniture,Desk,4,974,3896
+1624,ORD01624,2024-03-19,South,Customer_222,Furniture,Chair,10,84,840
+1625,ORD01625,2023-12-30,South,Customer_22,Office Supplies,Stapler,6,481,2886
+1626,ORD01626,2024-02-02,West,Customer_97,Office Supplies,Paper Pack,4,98,392
+1627,ORD01627,2023-02-17,South,Customer_233,Furniture,Table,4,334,1336
+1628,ORD01628,2023-06-24,West,Customer_495,Furniture,Chair,10,554,5540
+1629,ORD01629,2023-06-26,North,Customer_92,Office Supplies,Pen,8,474,3792
+1630,ORD01630,2024-01-14,South,Customer_94,Furniture,Table,10,922,9220
+1631,ORD01631,2023-05-29,West,Customer_95,Electronics,Keyboard,1,622,622
+1632,ORD01632,2024-11-02,South,Customer_392,Office Supplies,Pen,2,192,384
+1633,ORD01633,2024-07-03,West,Customer_496,Electronics,Mouse,9,781,7029
+1634,ORD01634,2023-06-27,North,Customer_343,Office Supplies,Pen,6,845,5070
+1635,ORD01635,2023-07-04,South,Customer_385,Electronics,Keyboard,10,749,7490
+1636,ORD01636,2023-11-06,South,Customer_196,Electronics,Printer,6,240,1440
+1637,ORD01637,2023-10-15,East,Customer_9,Electronics,Monitor,8,375,3000
+1638,ORD01638,2023-03-14,South,Customer_148,Office Supplies,Paper Pack,7,622,4354
+1639,ORD01639,2024-06-13,North,Customer_437,Electronics,Mouse,4,228,912
+1640,ORD01640,2024-07-10,South,Customer_74,Electronics,Printer,9,487,4383
+1641,ORD01641,2023-09-29,East,Customer_486,Furniture,Chair,3,585,1755
+1642,ORD01642,2024-01-08,West,Customer_338,Furniture,Chair,1,877,877
+1643,ORD01643,2023-01-14,South,Customer_279,Electronics,Printer,9,589,5301
+1644,ORD01644,2023-05-29,East,Customer_3,Office Supplies,Paper Pack,2,287,574
+1645,ORD01645,2023-01-07,East,Customer_6,Furniture,Desk,7,57,399
+1646,ORD01646,2023-05-10,North,Customer_479,Electronics,Monitor,5,402,2010
+1647,ORD01647,2024-12-18,South,Customer_193,Furniture,Table,2,177,354
+1648,ORD01648,2024-10-03,South,Customer_111,Electronics,Monitor,7,862,6034
+1649,ORD01649,2024-09-23,East,Customer_402,Electronics,Keyboard,6,14,84
+1650,ORD01650,2024-06-07,West,Customer_332,Electronics,Laptop,10,123,1230
+1651,ORD01651,2024-01-25,East,Customer_421,Electronics,Monitor,9,950,8550
+1652,ORD01652,2023-09-14,East,Customer_199,Office Supplies,Stapler,9,77,693
+1653,ORD01653,2024-04-20,West,Customer_371,Office Supplies,Pen,9,773,6957
+1654,ORD01654,2023-01-16,West,Customer_5,Electronics,Laptop,4,353,1412
+1655,ORD01655,2024-08-24,North,Customer_425,Furniture,Table,5,952,4760
+1656,ORD01656,2023-01-04,South,Customer_280,Office Supplies,Stapler,7,835,5845
+1657,ORD01657,2024-12-01,South,Customer_218,Office Supplies,Stapler,6,888,5328
+1658,ORD01658,2024-04-11,South,Customer_232,Electronics,Printer,5,13,65
+1659,ORD01659,2023-01-14,North,Customer_245,Furniture,Table,10,158,1580
+1660,ORD01660,2023-08-17,North,Customer_131,Electronics,Mouse,8,482,3856
+1661,ORD01661,2024-09-07,East,Customer_295,Furniture,Chair,2,271,542
+1662,ORD01662,2024-04-01,North,Customer_209,Office Supplies,Pen,3,712,2136
+1663,ORD01663,2023-05-18,East,Customer_489,Office Supplies,Stapler,2,553,1106
+1664,ORD01664,2024-01-03,West,Customer_403,Electronics,Monitor,4,518,2072
+1665,ORD01665,2023-09-10,South,Customer_66,Electronics,Keyboard,4,122,488
+1666,ORD01666,2023-08-02,North,Customer_1,Office Supplies,Pen,2,453,906
+1667,ORD01667,2024-11-13,West,Customer_178,Office Supplies,Stapler,5,948,4740
+1668,ORD01668,2024-04-12,North,Customer_44,Furniture,Chair,5,765,3825
+1669,ORD01669,2024-04-01,West,Customer_482,Furniture,Desk,10,363,3630
+1670,ORD01670,2023-02-18,North,Customer_26,Office Supplies,Pen,1,781,781
+1671,ORD01671,2023-11-06,East,Customer_31,Furniture,Cupboard,9,258,2322
+1672,ORD01672,2023-06-04,West,Customer_127,Office Supplies,Stapler,7,654,4578
+1673,ORD01673,2024-04-16,South,Customer_368,Electronics,Keyboard,6,70,420
+1674,ORD01674,2023-01-23,East,Customer_324,Electronics,Keyboard,3,818,2454
+1675,ORD01675,2024-09-28,North,Customer_70,Electronics,Printer,8,201,1608
+1676,ORD01676,2023-01-18,South,Customer_304,Electronics,Mouse,4,949,3796
+1677,ORD01677,2023-09-20,North,Customer_468,Electronics,Mouse,3,842,2526
+1678,ORD01678,2023-10-25,South,Customer_475,Office Supplies,Pen,6,760,4560
+1679,ORD01679,2024-07-29,North,Customer_481,Furniture,Table,1,810,810
+1680,ORD01680,2024-04-20,West,Customer_475,Office Supplies,Paper Pack,4,485,1940
+1681,ORD01681,2024-03-05,West,Customer_200,Furniture,Cupboard,7,751,5257
+1682,ORD01682,2023-08-03,East,Customer_461,Electronics,Monitor,2,801,1602
+1683,ORD01683,2023-12-30,West,Customer_57,Furniture,Cupboard,8,581,4648
+1684,ORD01684,2023-03-19,East,Customer_351,Electronics,Printer,5,328,1640
+1685,ORD01685,2023-04-17,East,Customer_245,Office Supplies,Notebook,3,473,1419
+1686,ORD01686,2024-03-27,West,Customer_374,Office Supplies,Paper Pack,3,311,933
+1687,ORD01687,2023-04-17,West,Customer_204,Furniture,Desk,5,312,1560
+1688,ORD01688,2023-05-25,East,Customer_152,Furniture,Table,5,278,1390
+1689,ORD01689,2023-01-28,East,Customer_25,Electronics,Laptop,8,964,7712
+1690,ORD01690,2024-08-25,West,Customer_206,Furniture,Chair,4,270,1080
+1691,ORD01691,2024-02-15,West,Customer_302,Electronics,Mouse,2,785,1570
+1692,ORD01692,2024-04-11,West,Customer_487,Electronics,Keyboard,1,392,392
+1693,ORD01693,2024-01-21,East,Customer_279,Electronics,Mouse,1,329,329
+1694,ORD01694,2023-03-17,North,Customer_181,Furniture,Cupboard,7,130,910
+1695,ORD01695,2023-07-11,West,Customer_226,Furniture,Cupboard,9,426,3834
+1696,ORD01696,2024-02-16,North,Customer_189,Furniture,Chair,3,766,2298
+1697,ORD01697,2024-08-21,South,Customer_154,Electronics,Mouse,2,425,850
+1698,ORD01698,2024-06-24,East,Customer_109,Furniture,Desk,7,117,819
+1699,ORD01699,2024-01-23,East,Customer_133,Office Supplies,Paper Pack,3,240,720
+1700,ORD01700,2024-09-03,West,Customer_466,Furniture,Cupboard,3,969,2907
+1701,ORD01701,2024-06-01,North,Customer_28,Furniture,Desk,2,567,1134
+1702,ORD01702,2024-04-02,South,Customer_377,Office Supplies,Pen,1,594,594
+1703,ORD01703,2023-08-10,West,Customer_240,Electronics,Laptop,9,669,6021
+1704,ORD01704,2024-09-26,South,Customer_101,Electronics,Laptop,3,770,2310
+1705,ORD01705,2024-01-07,South,Customer_229,Electronics,Laptop,10,734,7340
+1706,ORD01706,2024-04-19,West,Customer_241,Furniture,Table,10,565,5650
+1707,ORD01707,2023-01-06,North,Customer_333,Electronics,Monitor,2,785,1570
+1708,ORD01708,2023-09-07,West,Customer_91,Furniture,Cupboard,7,814,5698
+1709,ORD01709,2023-04-16,West,Customer_35,Electronics,Printer,1,204,204
+1710,ORD01710,2023-12-19,East,Customer_438,Electronics,Printer,4,329,1316
+1711,ORD01711,2023-03-13,North,Customer_387,Office Supplies,Paper Pack,7,183,1281
+1712,ORD01712,2024-03-05,East,Customer_220,Furniture,Cupboard,5,1000,5000
+1713,ORD01713,2024-09-29,East,Customer_138,Office Supplies,Stapler,4,603,2412
+1714,ORD01714,2024-08-26,South,Customer_443,Electronics,Mouse,2,540,1080
+1715,ORD01715,2023-11-21,East,Customer_361,Electronics,Laptop,5,197,985
+1716,ORD01716,2023-06-12,South,Customer_391,Electronics,Printer,4,494,1976
+1717,ORD01717,2024-05-27,South,Customer_223,Office Supplies,Paper Pack,5,933,4665
+1718,ORD01718,2024-06-17,South,Customer_396,Office Supplies,Paper Pack,9,286,2574
+1719,ORD01719,2024-02-29,North,Customer_353,Office Supplies,Paper Pack,8,48,384
+1720,ORD01720,2023-07-24,South,Customer_156,Electronics,Mouse,2,36,72
+1721,ORD01721,2023-06-03,East,Customer_98,Office Supplies,Stapler,9,301,2709
+1722,ORD01722,2024-11-18,West,Customer_73,Furniture,Table,5,555,2775
+1723,ORD01723,2023-07-11,West,Customer_348,Furniture,Cupboard,9,496,4464
+1724,ORD01724,2024-04-24,West,Customer_50,Electronics,Monitor,2,845,1690
+1725,ORD01725,2024-03-20,East,Customer_361,Electronics,Mouse,7,371,2597
+1726,ORD01726,2023-10-12,East,Customer_409,Furniture,Cupboard,2,63,126
+1727,ORD01727,2024-12-21,North,Customer_386,Office Supplies,Stapler,8,882,7056
+1728,ORD01728,2024-08-30,South,Customer_209,Office Supplies,Notebook,3,664,1992
+1729,ORD01729,2023-10-21,West,Customer_2,Furniture,Table,8,442,3536
+1730,ORD01730,2023-03-01,East,Customer_172,Furniture,Cupboard,8,876,7008
+1731,ORD01731,2024-06-25,South,Customer_467,Furniture,Desk,1,629,629
+1732,ORD01732,2023-09-28,South,Customer_91,Office Supplies,Notebook,6,837,5022
+1733,ORD01733,2023-10-13,North,Customer_331,Electronics,Keyboard,8,170,1360
+1734,ORD01734,2023-10-23,North,Customer_85,Furniture,Cupboard,8,416,3328
+1735,ORD01735,2023-12-03,South,Customer_99,Electronics,Mouse,6,535,3210
+1736,ORD01736,2024-09-14,South,Customer_193,Office Supplies,Stapler,4,87,348
+1737,ORD01737,2024-01-11,West,Customer_129,Furniture,Chair,2,338,676
+1738,ORD01738,2023-09-10,South,Customer_122,Furniture,Table,7,340,2380
+1739,ORD01739,2024-10-11,West,Customer_118,Office Supplies,Pen,3,955,2865
+1740,ORD01740,2024-01-05,East,Customer_213,Furniture,Desk,6,44,264
+1741,ORD01741,2023-12-29,South,Customer_449,Furniture,Chair,5,545,2725
+1742,ORD01742,2024-04-12,South,Customer_499,Electronics,Keyboard,7,207,1449
+1743,ORD01743,2023-05-02,South,Customer_185,Office Supplies,Stapler,3,499,1497
+1744,ORD01744,2023-08-21,North,Customer_286,Office Supplies,Notebook,1,855,855
+1745,ORD01745,2023-10-13,East,Customer_217,Electronics,Mouse,4,777,3108
+1746,ORD01746,2023-06-04,North,Customer_223,Office Supplies,Pen,5,456,2280
+1747,ORD01747,2023-12-10,West,Customer_82,Electronics,Mouse,8,686,5488
+1748,ORD01748,2024-04-11,North,Customer_451,Electronics,Printer,6,838,5028
+1749,ORD01749,2024-12-10,West,Customer_188,Furniture,Table,4,674,2696
+1750,ORD01750,2023-12-07,North,Customer_246,Office Supplies,Paper Pack,5,57,285
+1751,ORD01751,2024-10-14,East,Customer_125,Electronics,Printer,8,57,456
+1752,ORD01752,2024-05-05,South,Customer_430,Furniture,Cupboard,6,537,3222
+1753,ORD01753,2023-12-21,South,Customer_331,Electronics,Printer,9,214,1926
+1754,ORD01754,2023-03-23,North,Customer_82,Office Supplies,Notebook,1,673,673
+1755,ORD01755,2024-01-06,North,Customer_88,Office Supplies,Stapler,4,958,3832
+1756,ORD01756,2023-11-30,East,Customer_282,Furniture,Desk,2,623,1246
+1757,ORD01757,2024-10-13,West,Customer_73,Furniture,Cupboard,5,260,1300
+1758,ORD01758,2024-12-12,West,Customer_324,Furniture,Table,5,276,1380
+1759,ORD01759,2024-09-04,North,Customer_124,Office Supplies,Paper Pack,3,752,2256
+1760,ORD01760,2023-10-05,South,Customer_432,Office Supplies,Stapler,5,652,3260
+1761,ORD01761,2024-04-27,South,Customer_36,Electronics,Printer,5,597,2985
+1762,ORD01762,2024-02-01,West,Customer_113,Office Supplies,Notebook,6,743,4458
+1763,ORD01763,2023-12-06,South,Customer_227,Office Supplies,Pen,5,925,4625
+1764,ORD01764,2024-06-14,West,Customer_91,Electronics,Mouse,10,100,1000
+1765,ORD01765,2024-09-14,West,Customer_217,Furniture,Chair,10,620,6200
+1766,ORD01766,2024-05-06,North,Customer_497,Office Supplies,Notebook,6,554,3324
+1767,ORD01767,2023-12-05,North,Customer_356,Electronics,Printer,2,466,932
+1768,ORD01768,2024-06-12,North,Customer_470,Office Supplies,Notebook,6,134,804
+1769,ORD01769,2023-04-04,East,Customer_448,Furniture,Desk,5,386,1930
+1770,ORD01770,2023-12-07,East,Customer_464,Electronics,Printer,3,824,2472
+1771,ORD01771,2024-11-16,South,Customer_334,Furniture,Cupboard,10,980,9800
+1772,ORD01772,2024-11-11,North,Customer_153,Office Supplies,Stapler,5,546,2730
+1773,ORD01773,2024-10-19,North,Customer_418,Office Supplies,Paper Pack,3,22,66
+1774,ORD01774,2023-08-29,South,Customer_352,Furniture,Desk,10,938,9380
+1775,ORD01775,2023-12-18,North,Customer_68,Office Supplies,Paper Pack,6,929,5574
+1776,ORD01776,2023-10-17,West,Customer_142,Electronics,Printer,2,527,1054
+1777,ORD01777,2024-09-11,North,Customer_42,Office Supplies,Pen,6,999,5994
+1778,ORD01778,2024-08-13,East,Customer_190,Furniture,Table,9,398,3582
+1779,ORD01779,2024-11-30,West,Customer_236,Office Supplies,Stapler,4,305,1220
+1780,ORD01780,2023-12-25,East,Customer_107,Office Supplies,Notebook,10,739,7390
+1781,ORD01781,2024-07-16,South,Customer_120,Furniture,Cupboard,1,669,669
+1782,ORD01782,2024-10-20,East,Customer_148,Electronics,Printer,3,600,1800
+1783,ORD01783,2023-07-19,East,Customer_240,Electronics,Laptop,4,285,1140
+1784,ORD01784,2024-04-24,East,Customer_415,Office Supplies,Pen,3,450,1350
+1785,ORD01785,2024-05-10,North,Customer_240,Office Supplies,Notebook,7,644,4508
+1786,ORD01786,2023-09-24,South,Customer_353,Office Supplies,Paper Pack,2,225,450
+1787,ORD01787,2023-03-25,South,Customer_142,Electronics,Keyboard,10,598,5980
+1788,ORD01788,2023-01-16,East,Customer_350,Furniture,Table,4,270,1080
+1789,ORD01789,2023-11-08,South,Customer_394,Office Supplies,Paper Pack,3,214,642
+1790,ORD01790,2024-02-26,North,Customer_218,Electronics,Monitor,1,13,13
+1791,ORD01791,2023-06-15,West,Customer_49,Electronics,Mouse,2,519,1038
+1792,ORD01792,2023-02-06,West,Customer_214,Furniture,Desk,3,252,756
+1793,ORD01793,2024-12-04,North,Customer_414,Electronics,Monitor,1,729,729
+1794,ORD01794,2024-07-12,East,Customer_35,Furniture,Desk,8,280,2240
+1795,ORD01795,2024-12-26,North,Customer_422,Office Supplies,Paper Pack,9,181,1629
+1796,ORD01796,2023-07-24,West,Customer_454,Electronics,Laptop,1,796,796
+1797,ORD01797,2024-09-15,East,Customer_328,Electronics,Keyboard,9,234,2106
+1798,ORD01798,2024-03-19,East,Customer_147,Furniture,Chair,9,168,1512
+1799,ORD01799,2024-03-30,East,Customer_178,Electronics,Laptop,1,893,893
+1800,ORD01800,2023-05-30,West,Customer_116,Electronics,Printer,5,384,1920
+1801,ORD01801,2023-02-10,West,Customer_10,Furniture,Chair,6,748,4488
+1802,ORD01802,2024-09-08,West,Customer_347,Furniture,Table,1,770,770
+1803,ORD01803,2023-01-15,South,Customer_138,Electronics,Monitor,10,292,2920
+1804,ORD01804,2024-07-05,East,Customer_61,Furniture,Cupboard,3,899,2697
+1805,ORD01805,2023-05-01,North,Customer_134,Office Supplies,Pen,4,402,1608
+1806,ORD01806,2024-04-05,West,Customer_479,Electronics,Keyboard,7,50,350
+1807,ORD01807,2023-01-15,West,Customer_72,Electronics,Keyboard,3,771,2313
+1808,ORD01808,2023-01-23,South,Customer_395,Furniture,Chair,5,97,485
+1809,ORD01809,2023-06-29,South,Customer_117,Electronics,Printer,10,244,2440
+1810,ORD01810,2023-11-26,East,Customer_357,Office Supplies,Notebook,10,953,9530
+1811,ORD01811,2023-08-02,East,Customer_88,Furniture,Cupboard,2,261,522
+1812,ORD01812,2023-11-29,North,Customer_291,Furniture,Table,6,569,3414
+1813,ORD01813,2023-01-24,East,Customer_130,Furniture,Chair,3,676,2028
+1814,ORD01814,2024-07-01,South,Customer_264,Electronics,Keyboard,4,945,3780
+1815,ORD01815,2023-02-08,South,Customer_438,Office Supplies,Pen,10,472,4720
+1816,ORD01816,2024-05-28,West,Customer_142,Furniture,Chair,9,63,567
+1817,ORD01817,2023-03-29,North,Customer_31,Furniture,Desk,2,421,842
+1818,ORD01818,2023-01-03,East,Customer_70,Electronics,Mouse,4,489,1956
+1819,ORD01819,2023-04-08,South,Customer_253,Furniture,Cupboard,5,572,2860
+1820,ORD01820,2024-12-31,South,Customer_493,Office Supplies,Paper Pack,10,322,3220
+1821,ORD01821,2024-11-18,South,Customer_206,Office Supplies,Notebook,5,206,1030
+1822,ORD01822,2023-09-22,North,Customer_100,Furniture,Desk,9,433,3897
+1823,ORD01823,2023-02-07,North,Customer_361,Office Supplies,Notebook,4,203,812
+1824,ORD01824,2023-06-26,North,Customer_320,Furniture,Desk,7,906,6342
+1825,ORD01825,2023-09-23,West,Customer_319,Furniture,Table,3,709,2127
+1826,ORD01826,2023-07-29,West,Customer_403,Electronics,Mouse,4,387,1548
+1827,ORD01827,2024-07-14,North,Customer_98,Office Supplies,Notebook,3,337,1011
+1828,ORD01828,2023-02-16,North,Customer_334,Electronics,Keyboard,6,667,4002
+1829,ORD01829,2023-06-02,South,Customer_432,Electronics,Mouse,7,115,805
+1830,ORD01830,2024-08-20,East,Customer_83,Furniture,Desk,7,137,959
+1831,ORD01831,2023-06-14,South,Customer_365,Office Supplies,Paper Pack,8,411,3288
+1832,ORD01832,2024-02-11,East,Customer_351,Electronics,Printer,10,600,6000
+1833,ORD01833,2023-05-14,West,Customer_378,Electronics,Printer,4,816,3264
+1834,ORD01834,2023-11-22,South,Customer_400,Electronics,Mouse,3,144,432
+1835,ORD01835,2024-03-28,South,Customer_323,Office Supplies,Stapler,7,989,6923
+1836,ORD01836,2023-08-15,South,Customer_92,Electronics,Keyboard,1,511,511
+1837,ORD01837,2023-06-07,West,Customer_256,Electronics,Printer,8,251,2008
+1838,ORD01838,2023-09-27,South,Customer_327,Office Supplies,Stapler,4,788,3152
+1839,ORD01839,2023-12-20,East,Customer_406,Furniture,Chair,2,281,562
+1840,ORD01840,2023-12-22,East,Customer_112,Electronics,Mouse,5,497,2485
+1841,ORD01841,2024-11-01,East,Customer_244,Furniture,Chair,8,520,4160
+1842,ORD01842,2023-09-29,South,Customer_78,Furniture,Chair,7,125,875
+1843,ORD01843,2023-03-06,East,Customer_361,Office Supplies,Notebook,10,506,5060
+1844,ORD01844,2024-11-18,South,Customer_3,Office Supplies,Pen,4,248,992
+1845,ORD01845,2023-05-18,North,Customer_153,Electronics,Keyboard,1,961,961
+1846,ORD01846,2024-10-05,East,Customer_276,Electronics,Laptop,10,917,9170
+1847,ORD01847,2024-11-10,West,Customer_273,Office Supplies,Notebook,6,70,420
+1848,ORD01848,2024-04-23,North,Customer_70,Electronics,Mouse,3,30,90
+1849,ORD01849,2024-07-15,East,Customer_319,Office Supplies,Notebook,9,974,8766
+1850,ORD01850,2024-02-09,South,Customer_490,Electronics,Monitor,1,499,499
+1851,ORD01851,2024-08-25,North,Customer_141,Furniture,Chair,4,523,2092
+1852,ORD01852,2024-08-27,East,Customer_344,Office Supplies,Stapler,3,295,885
+1853,ORD01853,2024-01-09,North,Customer_468,Furniture,Table,6,959,5754
+1854,ORD01854,2024-04-02,North,Customer_166,Furniture,Cupboard,5,893,4465
+1855,ORD01855,2024-08-13,West,Customer_196,Furniture,Desk,6,124,744
+1856,ORD01856,2024-11-02,North,Customer_211,Electronics,Mouse,3,495,1485
+1857,ORD01857,2023-11-03,West,Customer_330,Office Supplies,Stapler,5,763,3815
+1858,ORD01858,2023-08-09,West,Customer_397,Electronics,Keyboard,4,688,2752
+1859,ORD01859,2023-04-29,East,Customer_497,Furniture,Desk,5,339,1695
+1860,ORD01860,2023-12-15,North,Customer_90,Electronics,Laptop,10,848,8480
+1861,ORD01861,2023-12-28,East,Customer_483,Electronics,Mouse,6,584,3504
+1862,ORD01862,2023-10-11,North,Customer_368,Furniture,Cupboard,1,797,797
+1863,ORD01863,2023-12-30,South,Customer_353,Furniture,Desk,1,751,751
+1864,ORD01864,2024-06-06,South,Customer_190,Office Supplies,Paper Pack,8,833,6664
+1865,ORD01865,2023-07-07,South,Customer_141,Furniture,Cupboard,1,684,684
+1866,ORD01866,2024-03-29,North,Customer_134,Office Supplies,Paper Pack,8,705,5640
+1867,ORD01867,2024-06-08,West,Customer_390,Office Supplies,Pen,5,561,2805
+1868,ORD01868,2023-05-27,North,Customer_30,Office Supplies,Pen,7,483,3381
+1869,ORD01869,2023-08-18,North,Customer_420,Office Supplies,Notebook,9,859,7731
+1870,ORD01870,2024-01-03,East,Customer_421,Electronics,Mouse,9,617,5553
+1871,ORD01871,2023-03-24,South,Customer_400,Furniture,Desk,6,118,708
+1872,ORD01872,2023-10-18,North,Customer_315,Office Supplies,Stapler,4,434,1736
+1873,ORD01873,2024-09-07,South,Customer_53,Office Supplies,Paper Pack,9,514,4626
+1874,ORD01874,2023-12-07,East,Customer_250,Electronics,Laptop,10,578,5780
+1875,ORD01875,2023-02-21,East,Customer_407,Office Supplies,Stapler,2,548,1096
+1876,ORD01876,2024-09-06,South,Customer_391,Office Supplies,Pen,7,918,6426
+1877,ORD01877,2023-10-15,West,Customer_379,Office Supplies,Paper Pack,1,472,472
+1878,ORD01878,2023-07-17,South,Customer_372,Electronics,Laptop,4,868,3472
+1879,ORD01879,2024-10-25,North,Customer_485,Electronics,Keyboard,2,971,1942
+1880,ORD01880,2023-10-19,North,Customer_216,Electronics,Monitor,3,481,1443
+1881,ORD01881,2023-08-04,East,Customer_180,Office Supplies,Pen,6,976,5856
+1882,ORD01882,2024-05-27,East,Customer_54,Electronics,Laptop,7,839,5873
+1883,ORD01883,2024-04-14,East,Customer_243,Office Supplies,Stapler,7,442,3094
+1884,ORD01884,2024-09-09,South,Customer_350,Furniture,Chair,2,195,390
+1885,ORD01885,2024-05-19,North,Customer_306,Furniture,Chair,6,605,3630
+1886,ORD01886,2023-01-01,South,Customer_427,Office Supplies,Notebook,5,706,3530
+1887,ORD01887,2024-07-06,West,Customer_117,Office Supplies,Paper Pack,5,839,4195
+1888,ORD01888,2024-05-26,South,Customer_114,Office Supplies,Stapler,9,876,7884
+1889,ORD01889,2023-07-03,West,Customer_355,Electronics,Mouse,6,65,390
+1890,ORD01890,2024-11-08,West,Customer_354,Office Supplies,Stapler,9,74,666
+1891,ORD01891,2023-12-29,South,Customer_162,Office Supplies,Pen,1,610,610
+1892,ORD01892,2024-12-26,North,Customer_71,Furniture,Desk,1,583,583
+1893,ORD01893,2023-09-14,South,Customer_468,Furniture,Table,3,577,1731
+1894,ORD01894,2023-05-14,West,Customer_60,Electronics,Keyboard,2,997,1994
+1895,ORD01895,2024-11-23,North,Customer_362,Office Supplies,Notebook,1,215,215
+1896,ORD01896,2024-03-16,East,Customer_330,Office Supplies,Pen,7,888,6216
+1897,ORD01897,2023-07-07,East,Customer_162,Electronics,Keyboard,1,227,227
+1898,ORD01898,2023-12-10,East,Customer_344,Electronics,Monitor,9,110,990
+1899,ORD01899,2024-05-15,East,Customer_72,Furniture,Cupboard,4,941,3764
+1900,ORD01900,2024-10-16,North,Customer_460,Furniture,Cupboard,8,25,200
+1901,ORD01901,2024-04-09,South,Customer_265,Furniture,Desk,7,232,1624
+1902,ORD01902,2024-07-14,East,Customer_339,Furniture,Chair,3,770,2310
+1903,ORD01903,2023-01-12,East,Customer_184,Office Supplies,Notebook,6,982,5892
+1904,ORD01904,2024-03-15,South,Customer_133,Office Supplies,Pen,8,378,3024
+1905,ORD01905,2023-07-23,South,Customer_459,Furniture,Chair,7,993,6951
+1906,ORD01906,2023-10-22,North,Customer_301,Office Supplies,Stapler,5,166,830
+1907,ORD01907,2024-05-12,East,Customer_317,Office Supplies,Paper Pack,10,762,7620
+1908,ORD01908,2024-11-06,West,Customer_171,Furniture,Desk,3,90,270
+1909,ORD01909,2023-01-02,South,Customer_2,Furniture,Chair,3,735,2205
+1910,ORD01910,2023-10-10,North,Customer_90,Electronics,Printer,9,557,5013
+1911,ORD01911,2024-09-10,East,Customer_437,Furniture,Desk,6,926,5556
+1912,ORD01912,2024-11-15,North,Customer_415,Electronics,Monitor,2,516,1032
+1913,ORD01913,2023-10-09,West,Customer_349,Office Supplies,Paper Pack,2,266,532
+1914,ORD01914,2023-07-20,South,Customer_176,Office Supplies,Pen,1,600,600
+1915,ORD01915,2023-09-28,East,Customer_206,Electronics,Printer,5,66,330
+1916,ORD01916,2023-04-27,West,Customer_441,Office Supplies,Pen,6,458,2748
+1917,ORD01917,2024-02-08,South,Customer_76,Furniture,Table,5,292,1460
+1918,ORD01918,2023-06-06,South,Customer_355,Furniture,Desk,2,496,992
+1919,ORD01919,2023-05-16,East,Customer_25,Office Supplies,Stapler,3,863,2589
+1920,ORD01920,2023-04-25,South,Customer_32,Office Supplies,Paper Pack,2,670,1340
+1921,ORD01921,2024-06-27,North,Customer_358,Furniture,Desk,5,103,515
+1922,ORD01922,2024-09-24,South,Customer_272,Electronics,Mouse,5,383,1915
+1923,ORD01923,2024-02-07,South,Customer_239,Office Supplies,Notebook,4,914,3656
+1924,ORD01924,2023-10-28,East,Customer_39,Electronics,Monitor,5,569,2845
+1925,ORD01925,2023-02-21,West,Customer_51,Office Supplies,Pen,8,533,4264
+1926,ORD01926,2023-03-22,East,Customer_405,Furniture,Cupboard,5,370,1850
+1927,ORD01927,2024-05-17,South,Customer_271,Electronics,Laptop,5,855,4275
+1928,ORD01928,2024-07-29,West,Customer_160,Furniture,Chair,5,888,4440
+1929,ORD01929,2024-09-07,West,Customer_269,Electronics,Printer,5,661,3305
+1930,ORD01930,2023-03-06,North,Customer_97,Furniture,Desk,3,225,675
+1931,ORD01931,2023-03-22,West,Customer_397,Electronics,Printer,2,255,510
+1932,ORD01932,2023-10-20,South,Customer_148,Furniture,Table,5,516,2580
+1933,ORD01933,2024-06-03,West,Customer_69,Electronics,Mouse,10,952,9520
+1934,ORD01934,2024-04-25,East,Customer_271,Office Supplies,Paper Pack,8,230,1840
+1935,ORD01935,2024-09-20,East,Customer_391,Office Supplies,Stapler,10,384,3840
+1936,ORD01936,2024-02-28,South,Customer_162,Electronics,Keyboard,6,647,3882
+1937,ORD01937,2024-07-17,North,Customer_208,Electronics,Mouse,9,315,2835
+1938,ORD01938,2024-09-21,West,Customer_287,Electronics,Laptop,10,974,9740
+1939,ORD01939,2023-03-30,West,Customer_245,Furniture,Table,1,254,254
+1940,ORD01940,2023-02-09,East,Customer_433,Office Supplies,Notebook,5,756,3780
+1941,ORD01941,2023-02-03,South,Customer_53,Electronics,Mouse,4,255,1020
+1942,ORD01942,2024-02-23,North,Customer_70,Office Supplies,Pen,7,243,1701
+1943,ORD01943,2023-11-10,West,Customer_280,Furniture,Desk,4,596,2384
+1944,ORD01944,2024-02-06,West,Customer_215,Furniture,Table,8,127,1016
+1945,ORD01945,2023-09-17,South,Customer_162,Office Supplies,Paper Pack,5,984,4920
+1946,ORD01946,2023-01-28,East,Customer_259,Office Supplies,Stapler,6,503,3018
+1947,ORD01947,2023-11-30,North,Customer_326,Furniture,Cupboard,7,511,3577
+1948,ORD01948,2023-10-11,West,Customer_30,Furniture,Chair,2,924,1848
+1949,ORD01949,2023-11-26,West,Customer_434,Furniture,Cupboard,7,284,1988
+1950,ORD01950,2024-09-01,East,Customer_325,Office Supplies,Paper Pack,10,854,8540
+1951,ORD01951,2024-04-30,South,Customer_214,Electronics,Printer,5,677,3385
+1952,ORD01952,2024-10-31,North,Customer_192,Electronics,Mouse,10,110,1100
+1953,ORD01953,2023-08-12,South,Customer_13,Office Supplies,Stapler,6,13,78
+1954,ORD01954,2024-03-25,North,Customer_281,Office Supplies,Stapler,9,941,8469
+1955,ORD01955,2023-12-02,West,Customer_73,Electronics,Mouse,1,293,293
+1956,ORD01956,2024-10-18,North,Customer_291,Furniture,Desk,2,874,1748
+1957,ORD01957,2023-02-15,South,Customer_295,Electronics,Mouse,1,520,520
+1958,ORD01958,2024-10-04,East,Customer_231,Electronics,Printer,9,557,5013
+1959,ORD01959,2023-05-01,East,Customer_226,Furniture,Table,6,406,2436
+1960,ORD01960,2023-01-26,South,Customer_39,Office Supplies,Notebook,5,391,1955
+1961,ORD01961,2023-01-27,South,Customer_235,Furniture,Cupboard,8,655,5240
+1962,ORD01962,2024-01-05,South,Customer_347,Furniture,Cupboard,4,582,2328
+1963,ORD01963,2023-01-12,South,Customer_247,Furniture,Chair,8,819,6552
+1964,ORD01964,2024-08-10,North,Customer_500,Furniture,Chair,4,577,2308
+1965,ORD01965,2023-01-16,West,Customer_25,Office Supplies,Stapler,2,394,788
+1966,ORD01966,2024-02-17,West,Customer_349,Furniture,Desk,7,238,1666
+1967,ORD01967,2024-11-02,North,Customer_11,Electronics,Mouse,2,44,88
+1968,ORD01968,2023-05-13,South,Customer_354,Office Supplies,Pen,1,865,865
+1969,ORD01969,2023-03-07,North,Customer_201,Electronics,Mouse,1,617,617
+1970,ORD01970,2023-10-15,North,Customer_262,Office Supplies,Notebook,4,285,1140
+1971,ORD01971,2024-12-18,East,Customer_458,Furniture,Chair,9,503,4527
+1972,ORD01972,2023-12-18,East,Customer_38,Electronics,Mouse,2,233,466
+1973,ORD01973,2023-09-26,East,Customer_375,Electronics,Monitor,4,292,1168
+1974,ORD01974,2023-11-10,East,Customer_199,Electronics,Printer,8,756,6048
+1975,ORD01975,2024-11-14,West,Customer_309,Furniture,Desk,8,250,2000
+1976,ORD01976,2024-10-12,North,Customer_290,Office Supplies,Pen,3,936,2808
+1977,ORD01977,2024-09-13,East,Customer_265,Furniture,Table,6,318,1908
+1978,ORD01978,2024-09-12,South,Customer_36,Office Supplies,Pen,1,116,116
+1979,ORD01979,2023-04-19,East,Customer_443,Furniture,Desk,7,167,1169
+1980,ORD01980,2024-11-02,South,Customer_73,Electronics,Laptop,5,337,1685
+1981,ORD01981,2024-03-29,South,Customer_255,Electronics,Mouse,7,593,4151
+1982,ORD01982,2024-04-14,West,Customer_148,Electronics,Keyboard,10,800,8000
+1983,ORD01983,2023-11-23,East,Customer_477,Office Supplies,Notebook,6,831,4986
+1984,ORD01984,2024-12-31,West,Customer_241,Furniture,Table,9,109,981
+1985,ORD01985,2023-09-01,West,Customer_247,Furniture,Cupboard,2,273,546
+1986,ORD01986,2023-01-08,West,Customer_393,Electronics,Mouse,8,281,2248
+1987,ORD01987,2023-06-17,South,Customer_458,Electronics,Mouse,8,582,4656
+1988,ORD01988,2024-07-19,South,Customer_318,Office Supplies,Pen,8,950,7600
+1989,ORD01989,2024-04-21,North,Customer_319,Electronics,Mouse,4,286,1144
+1990,ORD01990,2023-06-26,West,Customer_486,Furniture,Chair,7,508,3556
+1991,ORD01991,2024-02-26,West,Customer_325,Furniture,Desk,6,890,5340
+1992,ORD01992,2024-02-27,South,Customer_295,Electronics,Printer,2,34,68
+1993,ORD01993,2024-12-14,West,Customer_88,Office Supplies,Pen,1,44,44
+1994,ORD01994,2023-08-26,East,Customer_442,Office Supplies,Notebook,10,737,7370
+1995,ORD01995,2024-10-29,East,Customer_329,Furniture,Chair,7,553,3871
+1996,ORD01996,2024-12-27,East,Customer_325,Electronics,Monitor,5,812,4060
+1997,ORD01997,2024-07-24,West,Customer_458,Office Supplies,Notebook,4,766,3064
+1998,ORD01998,2024-11-13,South,Customer_152,Furniture,Cupboard,3,860,2580
+1999,ORD01999,2023-04-29,South,Customer_279,Electronics,Keyboard,10,399,3990
+2000,ORD02000,2023-10-04,West,Customer_180,Furniture,Desk,2,330,660
